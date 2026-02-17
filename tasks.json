@@ -44,5 +44,31 @@
   "7009267490": {
     "lastDailyClaim": 1771275010121,
     "dailyStreak": 1
+  },
+  "8240101356": {
+    "lastDailyClaim": 1771279756342,
+    "dailyStreak": 1
+  },
+  "8192703534": {
+    "lastDailyClaim": 1771280235534,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771280269312,
+      "join_group": 1771280269323
+    }
+  },
+  "7197789440": {
+    "lastDailyClaim": 1771280270056,
+    "dailyStreak": 1
+  },
+  "7294271375": {
+    "lastDailyClaim": 1771289301891,
+    "dailyStreak": 1
+  },
+  "8393897649": {
+    "completed": {
+      "join_channel": 1771301554273,
+      "join_group": 1771301554287
+    }
   }
 }
