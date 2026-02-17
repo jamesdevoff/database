@@ -55,8 +55,10 @@
   },
   "8505731024": {
     "code": "UKVGXZG1MDU3",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "8564664545"
+    ],
+    "totalEarned": 1,
     "createdAt": 1771331423749
   },
   "7735457452": {
