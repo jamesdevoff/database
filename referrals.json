@@ -99,8 +99,17 @@
   },
   "8499229495": {
     "code": "UKVGXZG0OTKY",
+    "referred": [
+      "7789566516",
+      "8171541661"
+    ],
+    "totalEarned": 2,
+    "createdAt": 1771342392395
+  },
+  "7933953605": {
+    "code": "UKVGXZC5MZM5",
     "referred": [],
     "totalEarned": 0,
-    "createdAt": 1771342392395
+    "createdAt": 1771344663294
   }
 }
