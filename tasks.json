@@ -43,7 +43,10 @@
     "completed": {
       "join_channel": 1771269873813,
       "join_group": 1771269873827
-    }
+    },
+    "milestones": {},
+    "lastDailyClaim": 1771332193130,
+    "dailyStreak": 1
   },
   "8180455048": {
     "lastDailyClaim": 1771270154296,
@@ -122,5 +125,10 @@
   "6858033321": {
     "lastDailyClaim": 1771327245569,
     "dailyStreak": 1
+  },
+  "8564664545": {
+    "usedReferral": true,
+    "referredBy": "8505731024",
+    "referralDate": 1771332109724
   }
 }
