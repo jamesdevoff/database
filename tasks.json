@@ -185,5 +185,25 @@
     "referralDate": 1771343960164,
     "lastDailyClaim": 1771343992698,
     "dailyStreak": 1
+  },
+  "7122084095": {
+    "lastDailyClaim": 1771356206752,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771356254694,
+      "join_group": 1771356254706
+    }
+  },
+  "7722767922": {
+    "lastDailyClaim": 1771359922601,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771359969464,
+      "join_group": 1771359969476
+    }
+  },
+  "8583275059": {
+    "lastDailyClaim": 1771361668774,
+    "dailyStreak": 1
   }
 }
