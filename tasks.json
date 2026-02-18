@@ -299,5 +299,13 @@
       "join_channel": 1771438925845,
       "join_group": 1771438925856
     }
+  },
+  "5199773523": {
+    "lastDailyClaim": 1771441293394,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771441373819,
+      "join_group": 1771441373830
+    }
   }
 }
