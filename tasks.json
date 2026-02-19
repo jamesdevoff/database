@@ -91,8 +91,9 @@
     "dailyStreak": 2
   },
   "6490725531": {
-    "lastDailyClaim": 1771314541846,
-    "dailyStreak": 1
+    "lastDailyClaim": 1771486542031,
+    "dailyStreak": 2,
+    "milestones": {}
   },
   "6636269371": {
     "lastDailyClaim": 1771314595585,
@@ -325,5 +326,25 @@
   "7328109281": {
     "lastDailyClaim": 1771484889278,
     "dailyStreak": 1
+  },
+  "8299512783": {
+    "usedReferral": true,
+    "referredBy": "6490725531",
+    "referralDate": 1771486790122,
+    "completed": {
+      "join_channel": 1771486862952,
+      "join_group": 1771486862970
+    }
+  },
+  "7557888941": {
+    "usedReferral": true,
+    "referredBy": "6490725531",
+    "referralDate": 1771486968324
+  },
+  "7706426115": {
+    "completed": {
+      "join_channel": 1771487727342,
+      "join_group": 1771487727353
+    }
   }
 }
