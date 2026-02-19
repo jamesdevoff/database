@@ -43,8 +43,11 @@
   },
   "8543016431": {
     "code": "UKVGXZG1NDMW",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "7396956111",
+      "7085985140"
+    ],
+    "totalEarned": 2,
     "createdAt": 1771318652545
   },
   "8489572600": {
@@ -191,5 +194,11 @@
     ],
     "totalEarned": 1,
     "createdAt": 1771486545903
+  },
+  "7396956111": {
+    "code": "UKVGXZCZOTY5",
+    "referred": [],
+    "totalEarned": 0,
+    "createdAt": 1771490243624
   }
 }
