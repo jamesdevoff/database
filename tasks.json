@@ -21,7 +21,8 @@
     "completed": {
       "join_channel": 1771256786427,
       "join_group": 1771256786438
-    }
+    },
+    "milestones": {}
   },
   "6488862226": {
     "lastDailyClaim": 1771269776015,
@@ -100,8 +101,8 @@
     "dailyStreak": 1
   },
   "8177222870": {
-    "lastDailyClaim": 1771315466027,
-    "dailyStreak": 1,
+    "lastDailyClaim": 1771490022595,
+    "dailyStreak": 2,
     "completed": {
       "join_channel": 1771315510328,
       "join_group": 1771315510337
@@ -346,5 +347,24 @@
       "join_channel": 1771487727342,
       "join_group": 1771487727353
     }
+  },
+  "7396956111": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771490158797
+  },
+  "7085985140": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771490216462
+  },
+  "8232584035": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771490265622
+  },
+  "6632211260": {
+    "lastDailyClaim": 1771490641972,
+    "dailyStreak": 1
   }
 }
