@@ -186,8 +186,10 @@
   },
   "6490725531": {
     "code": "UKVGXZY0OTA3",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "8299512783"
+    ],
+    "totalEarned": 1,
     "createdAt": 1771486545903
   }
 }
