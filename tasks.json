@@ -385,7 +385,10 @@
   },
   "8307502492": {
     "lastDailyClaim": 1771491513349,
-    "dailyStreak": 1
+    "dailyStreak": 1,
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771525384263
   },
   "8524482339": {
     "usedReferral": true,
@@ -432,5 +435,10 @@
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771525266998
+  },
+  "7110275217": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771528072820
   }
 }
