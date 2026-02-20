@@ -502,5 +502,16 @@
   },
   "8402461962": {
     "milestones": {}
+  },
+  "6588612198": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771578244922,
+    "completed": {
+      "join_channel": 1771578348574,
+      "join_group": 1771578348587
+    },
+    "lastDailyClaim": 1771578363848,
+    "dailyStreak": 1
   }
 }
