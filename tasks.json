@@ -119,8 +119,8 @@
     "dailyStreak": 1
   },
   "6706267480": {
-    "lastDailyClaim": 1771491077774,
-    "dailyStreak": 2
+    "lastDailyClaim": 1771587466657,
+    "dailyStreak": 3
   },
   "8489572600": {
     "lastDailyClaim": 1771323762307,
@@ -513,5 +513,17 @@
     },
     "lastDailyClaim": 1771578363848,
     "dailyStreak": 1
+  },
+  "7810041025": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771585642805,
+    "lastDailyClaim": 1771585657220,
+    "dailyStreak": 1
+  },
+  "7652206115": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771587073566
   }
 }
