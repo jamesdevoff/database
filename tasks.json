@@ -525,5 +525,17 @@
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771587073566
+  },
+  "7754834402": {
+    "usedReferral": true,
+    "referredBy": "8373141092",
+    "referralDate": 1771597839691
+  },
+  "8373141092": {
+    "milestones": {}
+  },
+  "7096687438": {
+    "lastDailyClaim": 1771599030373,
+    "dailyStreak": 1
   }
 }
