@@ -24,7 +24,8 @@
     },
     "milestones": {
       "milestone_5": true,
-      "milestone_10": true
+      "milestone_10": true,
+      "milestone_25": true
     }
   },
   "6488862226": {
@@ -562,5 +563,35 @@
   "7853512990": {
     "lastDailyClaim": 1771655698489,
     "dailyStreak": 1
+  },
+  "7500170976": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709300546
+  },
+  "8325318597": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709300596
+  },
+  "6806419860": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709300672
+  },
+  "8433377959": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709300799
+  },
+  "8043679688": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709300976
+  },
+  "8060977023": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771709301055
   }
 }
