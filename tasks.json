@@ -587,11 +587,33 @@
   "8043679688": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771709300976
+    "referralDate": 1771709300976,
+    "lastDailyClaim": 1771716572416,
+    "dailyStreak": 1
   },
   "8060977023": {
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771709301055
+  },
+  "6870169447": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771716572449
+  },
+  "6955695290": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771716572491
+  },
+  "7283625981": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771716572520
+  },
+  "6493459452": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771716572551
   }
 }
