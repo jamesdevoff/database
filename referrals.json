@@ -61,9 +61,10 @@
       "6768571743",
       "7847640545",
       "7550855447",
-      "7298982647"
+      "7298982647",
+      "8392338548"
     ],
-    "totalEarned": 18,
+    "totalEarned": 19,
     "createdAt": 1771318652545
   },
   "8489572600": {
@@ -261,8 +262,10 @@
   },
   "8373141092": {
     "code": "UKVGXZGZNZMX",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "8411203082"
+    ],
+    "totalEarned": 1,
     "createdAt": 1771551664500
   },
   "8357631865": {
@@ -302,5 +305,11 @@
     "referred": [],
     "totalEarned": 0,
     "createdAt": 1771620661250
+  },
+  "6668110908": {
+    "code": "UKVGXZY2NJGX",
+    "referred": [],
+    "totalEarned": 0,
+    "createdAt": 1771633168445
   }
 }
