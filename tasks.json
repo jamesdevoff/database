@@ -552,5 +552,15 @@
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771632937921
+  },
+  "7231467713": {
+    "completed": {
+      "join_channel": 1771655655836,
+      "join_group": 1771655655850
+    }
+  },
+  "7853512990": {
+    "lastDailyClaim": 1771655698489,
+    "dailyStreak": 1
   }
 }
