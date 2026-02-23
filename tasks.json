@@ -240,5 +240,32 @@
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771844134265
+  },
+  "6687975323": {
+    "lastDailyClaim": 1771845320169,
+    "dailyStreak": 1,
+    "milestones": {}
+  },
+  "7125800286": {
+    "usedReferral": true,
+    "referredBy": "6687975323",
+    "referralDate": 1771845404585,
+    "lastDailyClaim": 1771845415032,
+    "dailyStreak": 1
+  },
+  "7946625812": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771846977765
+  },
+  "5503119541": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771847272983
+  },
+  "7366590485": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771847274128
   }
 }
