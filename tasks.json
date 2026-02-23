@@ -65,5 +65,10 @@
       "join_channel": 1771822567112,
       "join_group": 1771822567125
     }
+  },
+  "6255354253": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771823071165
   }
 }
