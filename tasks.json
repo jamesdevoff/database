@@ -17,7 +17,8 @@
     "milestones": {
       "milestone_5": true,
       "milestone_10": true,
-      "milestone_25": true
+      "milestone_25": true,
+      "milestone_50": true
     }
   },
   "8542251607": {
@@ -309,5 +310,10 @@
     "referralDate": 1771859213708,
     "lastDailyClaim": 1771859230974,
     "dailyStreak": 1
+  },
+  "8436063848": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771860197315
   }
 }
