@@ -379,6 +379,48 @@
   },
   "7601813105": {
     "lastDailyClaim": 1771883194151,
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771883202914,
+      "join_group": 1771883202935
+    }
+  },
+  "7869939439": {
+    "lastDailyClaim": 1771884062938,
     "dailyStreak": 1
+  },
+  "8255047030": {
+    "lastDailyClaim": 1771884266496,
+    "dailyStreak": 1
+  },
+  "7980186529": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771885101132
+  },
+  "7032623055": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771887254179
+  },
+  "7960264734": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771887697517
+  },
+  "8343524367": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771888208430
+  },
+  "7478082496": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771888264595
+  },
+  "6969161894": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771888988357
   }
 }
