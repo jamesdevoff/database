@@ -13,6 +13,17 @@
     "completed": {
       "join_channel": 1771811384481,
       "join_group": 1771811384492
+    },
+    "milestones": {
+      "milestone_5": true,
+      "milestone_10": true
     }
+  },
+  "8542251607": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771819840906,
+    "lastDailyClaim": 1771819847106,
+    "dailyStreak": 1
   }
 }
