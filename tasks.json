@@ -16,7 +16,8 @@
     },
     "milestones": {
       "milestone_5": true,
-      "milestone_10": true
+      "milestone_10": true,
+      "milestone_25": true
     }
   },
   "8542251607": {
@@ -24,6 +25,20 @@
     "referredBy": "8543016431",
     "referralDate": 1771819840906,
     "lastDailyClaim": 1771819847106,
-    "dailyStreak": 1
+    "dailyStreak": 1,
+    "completed": {
+      "join_channel": 1771819852854,
+      "join_group": 1771819852863
+    }
+  },
+  "7966334253": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771819871924
+  },
+  "8297432827": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771819979113
   }
 }
