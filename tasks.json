@@ -114,7 +114,9 @@
   "8347791429": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771826090499
+    "referralDate": 1771826090499,
+    "lastDailyClaim": 1771833115127,
+    "dailyStreak": 1
   },
   "8357631865": {
     "lastDailyClaim": 1771826091534,
@@ -203,6 +205,8 @@
   "8022397442": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771832824442
+    "referralDate": 1771832824442,
+    "lastDailyClaim": 1771832922426,
+    "dailyStreak": 1
   }
 }
