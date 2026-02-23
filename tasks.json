@@ -127,5 +127,19 @@
   "8462469490": {
     "lastDailyClaim": 1771826328319,
     "dailyStreak": 1
+  },
+  "6418910292": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771827987824,
+    "completed": {
+      "join_channel": 1771828058976,
+      "join_group": 1771828058987
+    }
+  },
+  "6830560158": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771828107234
   }
 }
