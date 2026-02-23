@@ -421,6 +421,8 @@
   "6969161894": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771888988357
+    "referralDate": 1771888988357,
+    "lastDailyClaim": 1771889013473,
+    "dailyStreak": 1
   }
 }
