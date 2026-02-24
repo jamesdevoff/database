@@ -559,12 +559,36 @@
   "7092224055": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771958143083
+    "referralDate": 1771958143083,
+    "completed": {
+      "join_channel": 1771958373280,
+      "join_group": 1771958373405
+    }
   },
   "8060977023": {
     "completed": {
       "join_channel": 1771958202471,
       "join_group": 1771958202487
     }
+  },
+  "8060492763": {
+    "usedReferral": true,
+    "referredBy": "8373141092",
+    "referralDate": 1771960680492
+  },
+  "8373141092": {
+    "milestones": {},
+    "lastDailyClaim": 1771960736107,
+    "dailyStreak": 1
+  },
+  "7931293755": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771963708746
+  },
+  "8580771004": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771963708884
   }
 }
