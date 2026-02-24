@@ -436,5 +436,22 @@
       "join_channel": 1771890874989,
       "join_group": 1771890875031
     }
+  },
+  "8424269759": {
+    "usedReferral": true,
+    "referredBy": "8485440471",
+    "referralDate": 1771895920621
+  },
+  "8485440471": {
+    "milestones": {}
+  },
+  "8123318785": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771896325115,
+    "completed": {
+      "join_channel": 1771896494645,
+      "join_group": 1771896494681
+    }
   }
 }
