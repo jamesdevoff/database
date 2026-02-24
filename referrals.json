@@ -535,8 +535,12 @@
   },
   "6366535056": {
     "code": "UKVGXZYZNJY1",
-    "referred": [],
-    "totalEarned": 0,
+    "referred": [
+      "8256841276",
+      "8405472301",
+      "8386905876"
+    ],
+    "totalEarned": 3,
     "createdAt": 1771942140114
   }
 }
