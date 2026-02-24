@@ -150,8 +150,8 @@
     "dailyStreak": 1
   },
   "7901224576": {
-    "lastDailyClaim": 1771829920886,
-    "dailyStreak": 1,
+    "lastDailyClaim": 1771927504055,
+    "dailyStreak": 2,
     "completed": {
       "join_channel": 1771829935850,
       "join_group": 1771829935857
@@ -483,11 +483,18 @@
   "8670955624": {
     "usedReferral": true,
     "referredBy": "8543016431",
-    "referralDate": 1771913147355
+    "referralDate": 1771913147355,
+    "lastDailyClaim": 1771931268288,
+    "dailyStreak": 1
   },
   "7800140851": {
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771926509534
+  },
+  "8537512884": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771931810317
   }
 }
