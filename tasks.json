@@ -534,5 +534,18 @@
     "usedReferral": true,
     "referredBy": "8543016431",
     "referralDate": 1771941643461
+  },
+  "8256841276": {
+    "usedReferral": true,
+    "referredBy": "6366535056",
+    "referralDate": 1771942281842
+  },
+  "6366535056": {
+    "milestones": {}
+  },
+  "8405472301": {
+    "usedReferral": true,
+    "referredBy": "6366535056",
+    "referralDate": 1771942311636
   }
 }
