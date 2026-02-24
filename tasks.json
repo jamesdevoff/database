@@ -524,5 +524,15 @@
   "7429300620": {
     "lastDailyClaim": 1771939593920,
     "dailyStreak": 1
+  },
+  "6131893023": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771941622414
+  },
+  "7133767659": {
+    "usedReferral": true,
+    "referredBy": "8543016431",
+    "referralDate": 1771941643461
   }
 }
