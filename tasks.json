@@ -1,4 +1,8 @@
 {
+  "1533124518": {
+    "lastDailyClaim": 1771938031932,
+    "dailyStreak": 1
+  },
   "8392338548": {
     "lastDailyClaim": 1771788832532,
     "dailyStreak": 1
@@ -516,5 +520,9 @@
       "join_channel": 1771934141883,
       "join_group": 1771934141945
     }
+  },
+  "7429300620": {
+    "lastDailyClaim": 1771939593920,
+    "dailyStreak": 1
   }
 }
