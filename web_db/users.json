@@ -5,8 +5,12 @@
     "email": "",
     "password": "87dccb2085059d09726eefaa38250cf9f1d3e206e75346ae2a831ab3b2e17df3",
     "joinedAt": 1779023027807,
-    "sessions": [],
-    "numbers": [],
+    "sessions": [
+      "web_d8b10f509d1eb2c0a05a59da_254739938821"
+    ],
+    "numbers": [
+      "254739938821"
+    ],
     "settings": {},
     "banned": false,
     "reports": []
