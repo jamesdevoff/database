@@ -1,0 +1,15 @@
+[
+  {
+    "id": "global-dev-help",
+    "type": "group",
+    "name": "Global Dev Help",
+    "description": "Ask questions, share what you're building, help each other out.",
+    "participantIds": [],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "isVerified": true,
+    "isOfficial": true,
+    "createdAt": "2026-07-18T16:58:08.059Z"
+  }
+]
