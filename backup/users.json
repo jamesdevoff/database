@@ -1,0 +1,20 @@
+[
+  {
+    "id": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "username": "jamesmodz",
+    "displayName": "James",
+    "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": true,
+    "isAdmin": true,
+    "isVerified": true,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-18T16:58:08.165Z",
+    "createdAt": "2026-07-18T16:58:08.165Z",
+    "blockedUserIds": [],
+    "warnings": []
+  }
+]
