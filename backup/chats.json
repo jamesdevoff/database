@@ -6,7 +6,8 @@
     "description": "Ask questions, share what you're building, help each other out.",
     "participantIds": [
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "2d00d457-aa7c-4018-9787-bba1519ab52c"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -66,7 +67,8 @@
     "name": "Announcements",
     "description": "Official updates from the ZipDevs team. Reply in Developers Arena.",
     "participantIds": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "2d00d457-aa7c-4018-9787-bba1519ab52c"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -76,5 +78,18 @@
     "isVerified": true,
     "isOfficial": true,
     "createdAt": "2026-07-19T15:04:49.812Z"
+  },
+  {
+    "id": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "2d00d457-aa7c-4018-9787-bba1519ab52c"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T15:50:14.053Z"
   }
 ]
