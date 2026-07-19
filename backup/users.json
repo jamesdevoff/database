@@ -28,9 +28,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": false,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T08:20:35.009Z",
+    "lastSeen": "2026-07-19T08:40:35.678Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
     "blockedUserIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
