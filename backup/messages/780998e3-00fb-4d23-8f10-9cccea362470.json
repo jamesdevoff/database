@@ -1,0 +1,119 @@
+[
+  {
+    "id": "43a44060-932f-4166-93e5-0dec18308c0f",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:11:23.347Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "071e77d6-3055-4665-a1ed-52fa0ee9ddb5",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:11:33.193Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "56574fa8-b396-409a-9c94-25c78568010d",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "location",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": {
+      "label": "Current location",
+      "lat": 0.0245179,
+      "lng": 36.4115751
+    },
+    "code": null,
+    "createdAt": "2026-07-19T03:11:47.405Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f3ebfd4b-4a96-4c84-a63e-e7064acf0284",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "location",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": {
+      "label": "Current location",
+      "lat": 0.0245179,
+      "lng": 36.4115751
+    },
+    "code": null,
+    "createdAt": "2026-07-19T03:11:47.406Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "a6796a7b-b4af-46c4-9398-69c1b02cbbc3",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "code_snippet",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": {
+      "filename": "snippet.js",
+      "language": "javascript",
+      "content": "const js {"
+    },
+    "createdAt": "2026-07-19T03:11:53.899Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  }
+]
