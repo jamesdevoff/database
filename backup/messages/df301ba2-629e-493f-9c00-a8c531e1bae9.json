@@ -1,0 +1,59 @@
+[
+  {
+    "id": "c9c867a9-fa79-445c-bf07-43fcda3a2494",
+    "chatId": "df301ba2-629e-493f-9c00-a8c531e1bae9",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hey",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:41:50.858Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "3cf56f3a-3eff-452e-ae69-306340ac5d6c",
+    "chatId": "df301ba2-629e-493f-9c00-a8c531e1bae9",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "I'm here",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:41:53.747Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "8146844c-bf90-4777-9572-f48c2c6afb90",
+    "chatId": "df301ba2-629e-493f-9c00-a8c531e1bae9",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "text real James",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:43:13.721Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  }
+]
