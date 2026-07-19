@@ -3641,9 +3641,12 @@
     "code": null,
     "createdAt": "2026-07-19T18:40:12.834Z",
     "deliveredTo": [
-      "167b019e-bd25-44c1-a473-5bddd23c77bd"
+      "167b019e-bd25-44c1-a473-5bddd23c77bd",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "069de66a-d31a-487d-80ac-0a850a1e1d81",
@@ -3660,8 +3663,11 @@
     "code": null,
     "createdAt": "2026-07-19T18:40:23.344Z",
     "deliveredTo": [
-      "167b019e-bd25-44c1-a473-5bddd23c77bd"
+      "167b019e-bd25-44c1-a473-5bddd23c77bd",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
