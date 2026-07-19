@@ -2578,11 +2578,13 @@
     "createdAt": "2026-07-19T18:03:16.813Z",
     "deliveredTo": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -2601,19 +2603,21 @@
     "createdAt": "2026-07-19T18:04:09.487Z",
     "deliveredTo": [
       "5d2799f0-e256-41e2-ad99-a692c029121c",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
       "5d2799f0-e256-41e2-ad99-a692c029121c",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
-    "id": "7772b38d-c9be-49cc-849e-5a17d390e392",
+    "id": "fc55ef5e-8c7e-488c-bef9-175dcc25a5c0",
     "chatId": "global-dev-help",
     "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
     "type": "text",
-    "text": "welcome Fixa 💞🎉",
+    "text": "welcome new all new users",
     "mediaUrl": null,
     "mediaType": null,
     "caption": null,
@@ -2621,13 +2625,15 @@
     "carouselItems": null,
     "location": null,
     "code": null,
-    "createdAt": "2026-07-19T18:04:54.582Z",
+    "createdAt": "2026-07-19T18:05:10.621Z",
     "deliveredTo": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   }
 ]
