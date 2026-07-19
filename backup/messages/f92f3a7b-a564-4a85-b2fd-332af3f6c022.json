@@ -1,0 +1,70 @@
+[
+  {
+    "id": "04b38e2e-c9c8-4504-956d-ffe0776a2c25",
+    "chatId": "f92f3a7b-a564-4a85-b2fd-332af3f6c022",
+    "senderId": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "type": "text",
+    "text": "IT'S AMAZING 😍",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:05:42.175Z",
+    "deliveredTo": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f4f7356e-654e-4622-a3ce-c7836582c87a",
+    "chatId": "f92f3a7b-a564-4a85-b2fd-332af3f6c022",
+    "senderId": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "type": "text",
+    "text": "Give Me Blue Tick please James",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:08:14.854Z",
+    "deliveredTo": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "342848f3-a690-46ac-8ce0-a814dab62bba",
+    "chatId": "f92f3a7b-a564-4a85-b2fd-332af3f6c022",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "already",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:09:48.047Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  }
+]
