@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T19:09:28.209Z",
+    "lastSeen": "2026-07-19T23:54:23.418Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -156,7 +156,7 @@
     "bio": "James On Always On ToP",
     "isOwner": false,
     "isAdmin": false,
-    "isVerified": false,
+    "isVerified": true,
     "isOnline": false,
     "isBanned": false,
     "lastSeen": "2026-07-19T18:17:40.652Z",
@@ -228,7 +228,7 @@
     "bio": "",
     "isOwner": false,
     "isAdmin": false,
-    "isVerified": false,
+    "isVerified": true,
     "isOnline": false,
     "isBanned": false,
     "lastSeen": "2026-07-19T21:50:39.228Z",
