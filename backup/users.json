@@ -217,5 +217,23 @@
     "createdAt": "2026-07-19T18:38:53.805Z",
     "blockedUserIds": [],
     "warnings": []
+  },
+  {
+    "id": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "username": "Prezxy",
+    "displayName": "𝕻rᥱ᥊zᥡ",
+    "passwordHash": "$2a$10$E5HjykISSGRwnL4Narq2JOWRWrtyISFE/rs5uu05Kh.8M9TL9iCXS",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T20:51:16.639Z",
+    "createdAt": "2026-07-19T20:46:09.179Z",
+    "blockedUserIds": [],
+    "warnings": []
   }
 ]
