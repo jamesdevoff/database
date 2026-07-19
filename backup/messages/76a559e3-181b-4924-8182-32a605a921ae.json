@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1b058acc-2397-46fb-a16b-2ae4316ab767",
+    "chatId": "76a559e3-181b-4924-8182-32a605a921ae",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hey",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:57:23.440Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "d9900815-068e-4c83-a13e-58ba3a2a4b9b",
+    "chatId": "76a559e3-181b-4924-8182-32a605a921ae",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "just checking new group",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:57:37.480Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  }
+]
