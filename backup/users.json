@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:35:55.320Z",
+    "lastSeen": "2026-07-19T17:51:48.020Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -79,9 +79,12 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:44:28.393Z",
+    "lastSeen": "2026-07-19T17:45:51.420Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
-    "blockedUserIds": [],
+    "blockedUserIds": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+    ],
     "warnings": []
   },
   {
@@ -113,9 +116,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:44:10.793Z",
+    "lastSeen": "2026-07-19T17:47:20.023Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
     "blockedUserIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
@@ -138,8 +141,26 @@
     "isVerified": false,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:44:06.676Z",
+    "lastSeen": "2026-07-19T17:52:46.721Z",
     "createdAt": "2026-07-19T17:44:06.676Z",
+    "blockedUserIds": [],
+    "warnings": []
+  },
+  {
+    "id": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "username": "onlyfixa4913",
+    "displayName": "Only F!XA??",
+    "passwordHash": "$2a$10$2op/IDJAaXMh09fdhcO8wOII9BJ2uWlx/IG6gskHvNe/iUQUrTX3.",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": true,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T17:54:28.514Z",
+    "createdAt": "2026-07-19T17:54:27.692Z",
     "blockedUserIds": [],
     "warnings": []
   }
