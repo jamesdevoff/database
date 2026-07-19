@@ -1096,7 +1096,29 @@
     "code": null,
     "createdAt": "2026-07-19T17:13:55.882Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "63bac80e-8ae4-4402-a5bb-16e47a1cdf2c",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "but it's can't show me",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:34:15.211Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
     "readBy": []
   }
