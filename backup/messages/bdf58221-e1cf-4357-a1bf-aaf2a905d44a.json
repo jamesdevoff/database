@@ -482,5 +482,93 @@
     "readBy": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
     ]
+  },
+  {
+    "id": "92316e40-ac0e-45bb-92d4-6264e654a0e4",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "Where I'll see that file, I'm looking for it but...",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:25:43.937Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "88d31d6a-1f5f-49b4-b7b4-8edf78d36266",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "😆😆😆lemmi send on WhatsApp",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:26:10.797Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "31c828de-77e3-43a5-8d06-c01d1bbe09a8",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "oky",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:27:24.953Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "0707c0c2-9eea-488b-97cf-74051f86359d",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "It's on GitHub, right?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:28:40.438Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
