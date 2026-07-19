@@ -1,0 +1,131 @@
+[
+  {
+    "id": "a5fd7451-7f5e-47a3-9b37-0776f7ea3c5c",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "yo",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:26:19.827Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "517703f0-d1d4-47ac-96d2-17dc8df99d0c",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yoh",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:26:36.844Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "308ea86b-1940-4596-9258-75ce12b74ca3",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "What you did can help WhatsApp developers communicate with each other, since on WhatsApp, as soon as you message someone privately, you're automatically banned",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:27:33.206Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f1ecdce5-7d14-4ebe-b1e8-fbe6bc2f6e2a",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yah 😹😂😆 but its still local",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:28:11.062Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "5e90ad74-85a8-4672-a848-bfe854fab252",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "Which database are you using?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:29:08.775Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "8d1d156a-2644-4da5-a5f1-669511ae6bad",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "GitHub and backend",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:29:54.849Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  }
+]
