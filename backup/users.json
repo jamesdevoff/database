@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:30:07.125Z",
+    "lastSeen": "2026-07-19T18:38:05.418Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -197,6 +197,24 @@
     "isBanned": false,
     "lastSeen": "2026-07-19T18:22:02.084Z",
     "createdAt": "2026-07-19T18:00:37.055Z",
+    "blockedUserIds": [],
+    "warnings": []
+  },
+  {
+    "id": "167b019e-bd25-44c1-a473-5bddd23c77bd",
+    "username": "Samuel",
+    "displayName": "Vibe lord",
+    "passwordHash": "$2a$10$EuJvpWOlHxVgi3bM/2jtSeFr3aCsowTVMO6HV8LauuR1um6q0fO5y",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T18:41:20.476Z",
+    "createdAt": "2026-07-19T18:38:53.805Z",
     "blockedUserIds": [],
     "warnings": []
   }
