@@ -1234,5 +1234,24 @@
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ]
+  },
+  {
+    "id": "b8fa9f35-02be-4cdb-8f1d-d4ba2742a2b6",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "name changing option",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:55:17.681Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
   }
 ]
