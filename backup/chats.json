@@ -11,7 +11,8 @@
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
-      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+      "0e22440a-05f4-40ca-bcea-2deb8f496732",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -76,7 +77,8 @@
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
-      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+      "0e22440a-05f4-40ca-bcea-2deb8f496732",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -188,7 +190,8 @@
     "description": "Message the ZipDevs team directly.",
     "participantIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -220,11 +223,25 @@
     "name": null,
     "participantIds": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
     ],
     "ownerId": null,
     "adminIds": [],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T17:37:43.144Z"
+  },
+  {
+    "id": "48f1d1d6-7d66-49db-ac0d-1e992c98755d",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T17:47:04.579Z"
   }
 ]
