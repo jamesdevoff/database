@@ -1,0 +1,21 @@
+[
+  {
+    "id": "73f140d1-6c50-47bb-89da-bdae9289d7d3",
+    "chatId": "ef351e3b-0889-4f82-a2ec-3fff3019f414",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hey",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:37:47.365Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
+  }
+]
