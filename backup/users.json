@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T03:09:59.060Z",
+    "lastSeen": "2026-07-19T03:12:24.737Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [],
     "warnings": []
@@ -33,6 +33,12 @@
     "lastSeen": "2026-07-19T03:04:01.372Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
     "blockedUserIds": [],
-    "warnings": []
+    "warnings": [
+      {
+        "reason": "violation ",
+        "by": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+        "at": "2026-07-19T03:10:54.246Z"
+      }
+    ]
   }
 ]
