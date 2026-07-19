@@ -2,7 +2,7 @@
   {
     "id": "global-dev-help",
     "type": "group",
-    "name": "Global Dev Help",
+    "name": "Developers Arena",
     "description": "Ask questions, share what you're building, help each other out.",
     "participantIds": [
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
@@ -59,5 +59,22 @@
     "adminIds": [],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T03:11:15.098Z"
+  },
+  {
+    "id": "announcements",
+    "type": "announcement",
+    "name": "Announcements",
+    "description": "Official updates from the ZipDevs team. Reply in Developers Arena.",
+    "participantIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "adminIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "restrictedUserIds": [],
+    "isVerified": true,
+    "isOfficial": true,
+    "createdAt": "2026-07-19T15:04:49.812Z"
   }
 ]
