@@ -434,5 +434,136 @@
     "readBy": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
     ]
+  },
+  {
+    "id": "151c7b30-7bb1-464b-9c81-2dfe6815dc99",
+    "chatId": "global-dev-help",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "thx, I have lots of ideas in my head",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:26:05.269Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "63a36f14-70a3-46c1-8217-147c65f258c6",
+    "chatId": "global-dev-help",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/50ae2f72-f299-4e41-993f-4e917e6e203e.jpg",
+    "mediaType": "application/octet-stream",
+    "caption": "good",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:30:28.154Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "a3d4e514-6098-476d-a29e-8f3afd841a15",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "😂😂😂😆",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:31:10.536Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "de82d84f-ecba-4fec-a023-3fe0e73e8a41",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "add profile image",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:31:18.090Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "6a45973c-bcbb-4a17-9bce-603ab59afba8",
+    "chatId": "global-dev-help",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "oky",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:31:25.930Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "0e73c6f0-d606-4949-935a-f7aabc2d4d67",
+    "chatId": "global-dev-help",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/e530736f-087c-414b-88c3-6a4f27df3412.mp4",
+    "mediaType": "application/octet-stream",
+    "caption": "hi",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:31:30.059Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
