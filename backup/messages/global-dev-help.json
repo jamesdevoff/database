@@ -2927,30 +2927,6 @@
     ]
   },
   {
-    "id": "b6030a2d-43d0-42cc-8582-0eebc67bb6f8",
-    "chatId": "global-dev-help",
-    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-    "type": "text",
-    "text": "delete function is already working",
-    "mediaUrl": null,
-    "mediaType": null,
-    "caption": null,
-    "buttons": null,
-    "carouselItems": null,
-    "location": null,
-    "code": null,
-    "createdAt": "2026-07-19T18:14:07.665Z",
-    "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "5d2799f0-e256-41e2-ad99-a692c029121c",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
-    ],
-    "readBy": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
-    ]
-  },
-  {
     "id": "9a49e07d-9f7b-4c0e-90f7-c40611a29cc6",
     "chatId": "global-dev-help",
     "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
@@ -2990,9 +2966,35 @@
     "createdAt": "2026-07-19T18:15:32.859Z",
     "deliveredTo": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
     "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "4e452c01-ec13-4b6a-9be7-67283bb07984",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "did you see i delete previous message",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:15:48.797Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "5d2799f0-e256-41e2-ad99-a692c029121c"
     ]
   }
