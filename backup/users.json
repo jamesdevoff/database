@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:18:04.390Z",
+    "lastSeen": "2026-07-19T18:24:22.866Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -77,9 +77,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:45:51.420Z",
+    "lastSeen": "2026-07-19T18:21:59.905Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
@@ -118,7 +118,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:16:34.585Z",
+    "lastSeen": "2026-07-19T18:19:37.803Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
     "blockedUserIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
@@ -193,9 +193,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:18:35.578Z",
+    "lastSeen": "2026-07-19T18:22:02.084Z",
     "createdAt": "2026-07-19T18:00:37.055Z",
     "blockedUserIds": [],
     "warnings": []
