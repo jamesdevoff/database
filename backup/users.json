@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:57:29.093Z",
+    "lastSeen": "2026-07-19T18:04:20.181Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -71,7 +71,7 @@
     "username": "BLACK COBRA EXPERT",
     "displayName": "BLACK COBRA EXPERT",
     "passwordHash": "$2a$10$vGzgrHUEzs2XoRxM03Ei0eHaTDFqVil1/rZrgePk6sMtnx9T1Hu3i",
-    "avatarUrl": "/uploads/avatars/70cccfdf-b5bb-4528-93db-2ef52919dd67.jpg",
+    "avatarUrl": "/uploads/avatars/eeb0b392-f3a0-49a9-b06f-675bce390f42.jpg",
     "wallpaperUrl": null,
     "bio": "",
     "isOwner": false,
@@ -118,7 +118,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:47:20.023Z",
+    "lastSeen": "2026-07-19T18:00:08.062Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
     "blockedUserIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
@@ -159,7 +159,7 @@
     "isVerified": false,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:57:43.654Z",
+    "lastSeen": "2026-07-19T18:03:53.237Z",
     "createdAt": "2026-07-19T17:54:27.692Z",
     "blockedUserIds": [],
     "warnings": []
@@ -169,7 +169,7 @@
     "username": "snexyaura",
     "displayName": "SneaXy Prime",
     "passwordHash": "$2a$10$WCSnxEeNYnshemebgwnhUub6DubYcZRuVcLOhZqucMa89qssDr9h2",
-    "avatarUrl": null,
+    "avatarUrl": "/uploads/avatars/8f7e5399-a46b-4f4c-8f3a-6cc86eaa66dd.png",
     "wallpaperUrl": null,
     "bio": "",
     "isOwner": false,
@@ -179,6 +179,24 @@
     "isBanned": false,
     "lastSeen": "2026-07-19T17:57:42.872Z",
     "createdAt": "2026-07-19T17:57:42.872Z",
+    "blockedUserIds": [],
+    "warnings": []
+  },
+  {
+    "id": "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+    "username": "onlypain4913",
+    "displayName": "OnlyㅤPᴀɪɴ爱",
+    "passwordHash": "$2a$10$PUQAtDLx7FipUBazc0amd..LURsedcMVtUfqcmVvy0sSHJHmHsCJO",
+    "avatarUrl": "/uploads/avatars/25780732-4931-413a-a1f4-02f741055ac0.png",
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T18:00:37.055Z",
+    "createdAt": "2026-07-19T18:00:37.055Z",
     "blockedUserIds": [],
     "warnings": []
   }
