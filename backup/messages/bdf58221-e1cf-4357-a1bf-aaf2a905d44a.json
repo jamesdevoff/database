@@ -277,7 +277,30 @@
     "location": null,
     "code": null,
     "createdAt": "2026-07-19T17:44:08.063Z",
-    "deliveredTo": [],
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "845b3717-cbf9-42ef-ad7e-63996341cc83",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yoh",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:46:06.450Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
     "readBy": []
   }
 ]
