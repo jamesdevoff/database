@@ -17,5 +17,22 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
+  },
+  {
+    "id": "41ada7ef-fcef-491f-bb19-5d3a32763984",
+    "chatId": "help-center-91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "anyone try to contact help center",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:48:34.949Z",
+    "deliveredTo": [],
+    "readBy": []
   }
 ]
