@@ -161,8 +161,11 @@
     "code": null,
     "createdAt": "2026-07-19T18:30:11.443Z",
     "deliveredTo": [
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
-    "readBy": []
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
   }
 ]
