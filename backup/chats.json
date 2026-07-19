@@ -10,7 +10,8 @@
       "2d00d457-aa7c-4018-9787-bba1519ab52c",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -74,7 +75,8 @@
       "2d00d457-aa7c-4018-9787-bba1519ab52c",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -194,5 +196,35 @@
     ],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T17:26:38.240Z"
+  },
+  {
+    "id": "7a8b7cbd-5f6a-450c-8479-11a121e9626b",
+    "type": "group",
+    "name": "Pris",
+    "description": "",
+    "participantIds": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "ownerId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "adminIds": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "restrictedUserIds": [],
+    "isVerified": false,
+    "isOfficial": false,
+    "createdAt": "2026-07-19T17:36:49.792Z"
+  },
+  {
+    "id": "ef351e3b-0889-4f82-a2ec-3fff3019f414",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T17:37:43.144Z"
   }
 ]
