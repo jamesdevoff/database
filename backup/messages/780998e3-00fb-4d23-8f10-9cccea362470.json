@@ -180,5 +180,45 @@
     "readBy": [
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
     ]
+  },
+  {
+    "id": "b2708491-128f-4501-b1a6-a085e4fbe879",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T04:17:57.014Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "9230a853-2622-4bbc-be34-e03e9eab2290",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T04:18:22.283Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
