@@ -174,5 +174,376 @@
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ]
+  },
+  {
+    "id": "c104d0b8-0ef0-4d4e-a70e-3f00fe4a0bc0",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "yeah I will receive notification",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:45:05.847Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "24df28c0-9ea8-4c87-9403-3403ab7d405a",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "after this you will upload play store?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:45:37.871Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "e8a688ba-7cb9-4307-86e8-b27120d40f3e",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "yes or no ?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:46:08.163Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "deac7d66-994e-4063-9f03-973c7b389c2a",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yah but i must fix everything and make it perfect",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:46:25.199Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "5c7cbc0a-8d98-4fc6-b4d6-bb3c60cbfb10",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "ok done",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:46:42.726Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "abd8f477-7621-492c-a1ed-6a81cf53f8b3",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "explore and tell me whats missing",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:47:14.278Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "ecb57c6c-cc26-40e3-8c66-d77528f29d60",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "ok",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:47:29.034Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "7d184ace-017f-4430-a8a0-ad9dcbec0945",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "lemmi verify you",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:47:57.269Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "1b30900d-2473-4e45-aa81-bd042ac72ae6",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "ok ty",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:48:18.578Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "890da4b4-5f80-44cc-8aa5-ff0ae56421c8",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "notification is slow",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:48:30.764Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "83f1c07d-dc54-4d73-806a-6fe69cc00d83",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yh ill fix in backend",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:48:41.540Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "3d65a205-a338-48d5-aeb5-9b33e1063dc0",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/bb040a60-a485-4147-a332-d5a62cdcdab4.jpg",
+    "mediaType": "application/octet-stream",
+    "caption": "",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:48:50.210Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f24df174-3642-4fa5-a9bf-dbf3dd007e42",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/361f908d-8157-4fe6-b689-bb3e71c56f40.png",
+    "mediaType": "application/octet-stream",
+    "caption": "confirm ",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:49:09.148Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "528d7ac0-cbca-4474-9a5c-ff6665277287",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "group meassge notification can't show",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:49:11.580Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f11cf735-b80d-40d7-ba1b-692bb5375c59",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "ill fix that too its kinda slow",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:49:43.937Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "ac62fe1c-a7d1-4b2c-be32-f473d111ca04",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "and how can message reply bay tag this meassge",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:52:23.370Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "4b6c13b6-a0a0-4b24-abde-53b7c9b954a1",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "and can I change my name to stylish text?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:53:21.610Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
   }
 ]
