@@ -62,5 +62,24 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "d6cf4529-24d5-4299-b303-3a0ebf74ca98",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "file",
+    "text": null,
+    "mediaUrl": "/uploads/media/cd903fea-5405-4c56-95f6-b55ff5042c0b.zip",
+    "mediaType": "application/octet-stream",
+    "caption": "sketsa-ramadhan-font.zip",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:32:04.812Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
