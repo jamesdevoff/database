@@ -1,0 +1,21 @@
+[
+  {
+    "id": "fdc784af-a630-40a1-b5a9-e2d60f962609",
+    "chatId": "a6946130-19ad-47bd-9757-cefc2c47d79f",
+    "senderId": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "type": "text",
+    "text": "hi",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T20:49:24.326Z",
+    "deliveredTo": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": []
+  }
+]
