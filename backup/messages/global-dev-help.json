@@ -2949,5 +2949,27 @@
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "5d2799f0-e256-41e2-ad99-a692c029121c"
     ]
+  },
+  {
+    "id": "9a49e07d-9f7b-4c0e-90f7-c40611a29cc6",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "maybe it's delete from me but not delete my meassge other user?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:15:03.116Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
