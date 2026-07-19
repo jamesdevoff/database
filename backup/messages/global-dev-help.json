@@ -2530,10 +2530,12 @@
     "createdAt": "2026-07-19T17:56:46.883Z",
     "deliveredTo": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "5d2799f0-e256-41e2-ad99-a692c029121c"
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -2557,6 +2559,74 @@
     ],
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "cf0f5eb6-077a-4aa3-92c1-66df441f8e2c",
+    "chatId": "global-dev-help",
+    "senderId": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "type": "text",
+    "text": "Congratulations 👏 James",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:03:16.813Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "8a229692-a26c-4a12-9139-d3fd92426902",
+    "chatId": "global-dev-help",
+    "senderId": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "type": "text",
+    "text": "🌹",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:04:09.487Z",
+    "deliveredTo": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "7772b38d-c9be-49cc-849e-5a17d390e392",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "welcome Fixa 💞🎉",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:04:54.582Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
       "5d2799f0-e256-41e2-ad99-a692c029121c"
     ]
   }
