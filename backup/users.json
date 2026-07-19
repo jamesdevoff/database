@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T15:56:23.143Z",
+    "lastSeen": "2026-07-19T16:31:26.986Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [],
     "warnings": []
@@ -29,7 +29,7 @@
     "isAdmin": false,
     "isVerified": false,
     "isOnline": false,
-    "isBanned": false,
+    "isBanned": true,
     "lastSeen": "2026-07-19T15:37:26.146Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
     "blockedUserIds": [
@@ -41,7 +41,10 @@
         "by": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
         "at": "2026-07-19T03:10:54.246Z"
       }
-    ]
+    ],
+    "banReason": "testing ",
+    "bannedBy": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "bannedAt": "2026-07-19T16:32:51.114Z"
   },
   {
     "id": "2d00d457-aa7c-4018-9787-bba1519ab52c",
@@ -53,10 +56,10 @@
     "bio": "",
     "isOwner": false,
     "isAdmin": false,
-    "isVerified": true,
+    "isVerified": false,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T15:48:37.681Z",
+    "lastSeen": "2026-07-19T16:30:35.803Z",
     "createdAt": "2026-07-19T15:48:37.681Z",
     "blockedUserIds": [],
     "warnings": []
