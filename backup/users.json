@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:56:33.180Z",
+    "lastSeen": "2026-07-19T17:57:29.093Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -159,8 +159,26 @@
     "isVerified": false,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:54:28.514Z",
+    "lastSeen": "2026-07-19T17:57:43.654Z",
     "createdAt": "2026-07-19T17:54:27.692Z",
+    "blockedUserIds": [],
+    "warnings": []
+  },
+  {
+    "id": "72ed6d45-6180-4e36-9390-19220d7a1e33",
+    "username": "snexyaura",
+    "displayName": "SneaXy Prime",
+    "passwordHash": "$2a$10$WCSnxEeNYnshemebgwnhUub6DubYcZRuVcLOhZqucMa89qssDr9h2",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T17:57:42.872Z",
+    "createdAt": "2026-07-19T17:57:42.872Z",
     "blockedUserIds": [],
     "warnings": []
   }
