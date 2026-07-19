@@ -1,0 +1,23 @@
+[
+  {
+    "id": "66eba05a-b213-4be1-b80e-fd0153dca03d",
+    "chatId": "help-center-4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "senderId": "0e22440a-05f4-40ca-bcea-2deb8f496732",
+    "type": "text",
+    "text": "hi",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:51:37.427Z",
+    "deliveredTo": [
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+    ],
+    "readBy": [
+      "0e22440a-05f4-40ca-bcea-2deb8f496732"
+    ]
+  }
+]
