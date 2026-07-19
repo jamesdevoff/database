@@ -586,9 +586,12 @@
     "code": null,
     "createdAt": "2026-07-19T18:35:13.159Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
     ],
-    "readBy": []
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
   },
   {
     "id": "0ee471bd-e833-4702-ae89-137f2c5e9766",
@@ -604,7 +607,30 @@
     "location": null,
     "code": null,
     "createdAt": "2026-07-19T18:35:20.649Z",
-    "deliveredTo": [],
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "e4564d1b-3151-443c-8095-e8fae297c952",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "ohh oky",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T19:20:09.946Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
     "readBy": []
   }
 ]
