@@ -7,7 +7,8 @@
     "participantIds": [
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "2d00d457-aa7c-4018-9787-bba1519ab52c"
+      "2d00d457-aa7c-4018-9787-bba1519ab52c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -68,7 +69,8 @@
     "description": "Official updates from the ZipDevs team. Reply in Developers Arena.",
     "participantIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "2d00d457-aa7c-4018-9787-bba1519ab52c"
+      "2d00d457-aa7c-4018-9787-bba1519ab52c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -91,5 +93,31 @@
     "adminIds": [],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T15:50:14.053Z"
+  },
+  {
+    "id": "df301ba2-629e-493f-9c00-a8c531e1bae9",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T16:41:45.528Z"
+  },
+  {
+    "id": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T16:43:18.890Z"
   }
 ]
