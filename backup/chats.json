@@ -119,5 +119,34 @@
     "adminIds": [],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T16:43:18.890Z"
+  },
+  {
+    "id": "17f3076e-ec25-421e-88c0-61bcffa3ff64",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "2d00d457-aa7c-4018-9787-bba1519ab52c"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T16:56:49.988Z"
+  },
+  {
+    "id": "help-center-4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "help_center",
+    "name": "Help Center",
+    "description": "Message the ZipDevs team directly.",
+    "participantIds": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "adminIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T16:59:57.496Z"
   }
 ]
