@@ -115,5 +115,70 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "d63548bd-a4ef-4776-8864-2da6408f4dc2",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "code_snippet",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": {
+      "filename": "snippet.json",
+      "language": "JSON",
+      "content": "\"flutter\": \"7.0.7\","
+    },
+    "createdAt": "2026-07-19T03:32:17.973Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "05df7945-fd95-4944-98be-3a90461b9783",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "type": "text",
+    "text": "hi",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:34:14.310Z",
+    "deliveredTo": [
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "3114d57c-76c5-4308-b375-220ee7c040b2",
+    "chatId": "780998e3-00fb-4d23-8f10-9cccea362470",
+    "senderId": "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "type": "text",
+    "text": "hi",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:35:45.431Z",
+    "deliveredTo": [
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
+    ],
+    "readBy": [
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
+    ]
   }
 ]
