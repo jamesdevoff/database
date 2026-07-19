@@ -19,5 +19,67 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "189af6a3-bb99-47e6-9b2c-7045cdec3d70",
+    "chatId": "help-center-d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:29:07.811Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "a3bf4602-9567-4bef-b14e-d65c1ea306a6",
+    "chatId": "help-center-d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "location",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": {
+      "label": "Current location",
+      "lat": 0.0254577,
+      "lng": 36.4088686
+    },
+    "code": null,
+    "createdAt": "2026-07-19T03:29:44.600Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "1fa01cb0-8e18-48aa-bfc9-bdd87aed5178",
+    "chatId": "help-center-d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/04255afd-3bef-48c0-ae08-acddea01f217.jpg",
+    "mediaType": "application/octet-stream",
+    "caption": "hello world",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:29:47.990Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [],
+    "editedAt": "2026-07-19T03:30:01.072Z"
   }
 ]
