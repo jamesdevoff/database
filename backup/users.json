@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:13:40.054Z",
+    "lastSeen": "2026-07-19T18:18:04.390Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -157,9 +157,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": false,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:13:29.898Z",
+    "lastSeen": "2026-07-19T18:17:40.652Z",
     "createdAt": "2026-07-19T17:54:27.692Z",
     "blockedUserIds": [],
     "warnings": []
@@ -193,9 +193,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T18:00:37.055Z",
+    "lastSeen": "2026-07-19T18:18:35.578Z",
     "createdAt": "2026-07-19T18:00:37.055Z",
     "blockedUserIds": [],
     "warnings": []
