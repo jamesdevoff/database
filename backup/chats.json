@@ -8,7 +8,8 @@
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "2d00d457-aa7c-4018-9787-bba1519ab52c",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "417b0fdb-d56d-42aa-a120-a6d9d9f07384"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -70,7 +71,8 @@
     "participantIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "2d00d457-aa7c-4018-9787-bba1519ab52c",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "417b0fdb-d56d-42aa-a120-a6d9d9f07384"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -148,5 +150,18 @@
     ],
     "restrictedUserIds": [],
     "createdAt": "2026-07-19T16:59:57.496Z"
+  },
+  {
+    "id": "e2fcd48a-9456-42d2-9acd-6bf36c5e6dd6",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-19T17:14:48.632Z"
   }
 ]
