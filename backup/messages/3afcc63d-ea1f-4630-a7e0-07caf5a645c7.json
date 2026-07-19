@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7d87d068-831d-4377-ba7f-5ed7101831c0",
+    "chatId": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T15:50:25.795Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "9e189cb3-3652-4370-b131-cab1e31ea777",
+    "chatId": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T15:50:45.328Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "6e91968b-277c-4299-8b41-ab6d86881383",
+    "chatId": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/1d3b3b5c-f83c-4f68-bd0e-3a45ff80d111.mp4",
+    "mediaType": "application/octet-stream",
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T15:51:10.279Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "308cb4a0-fa35-4138-b65c-ae845051a71a",
+    "chatId": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/b3c40bca-0fd3-41dd-851c-aacfe6b2c9c3.mp4",
+    "mediaType": "application/octet-stream",
+    "caption": "p",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T15:51:28.269Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  }
+]
