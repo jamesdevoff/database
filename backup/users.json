@@ -229,9 +229,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": false,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T21:04:11.971Z",
+    "lastSeen": "2026-07-19T21:05:02.524Z",
     "createdAt": "2026-07-19T20:46:09.179Z",
     "blockedUserIds": [],
     "warnings": []
