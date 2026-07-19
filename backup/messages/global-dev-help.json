@@ -2529,8 +2529,35 @@
     "code": null,
     "createdAt": "2026-07-19T17:56:46.883Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
     ],
-    "readBy": []
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "5c3d3fde-80c3-4376-a31c-2d999f32d7d4",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "ok 😆😆😆",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:57:40.973Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
   }
 ]
