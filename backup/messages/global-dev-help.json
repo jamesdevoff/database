@@ -2821,10 +2821,133 @@
     "createdAt": "2026-07-19T18:11:00.418Z",
     "deliveredTo": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "995dfc8a-2ea5-402c-b613-fc93c9e60e49",
+    "chatId": "global-dev-help",
+    "senderId": "5d2799f0-e256-41e2-ad99-a692c029121c",
+    "type": "text",
+    "text": "😶‍🌫️",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:12:32.192Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f8768053-de9b-4bd9-8fcd-20c6c053289d",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "I will check meassge delete option",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:12:51.694Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "d2b479ee-5d9b-444a-bf0b-b82fae8ded87",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "someone help me to check",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:13:37.694Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "5241a375-6828-40b4-bc8b-e8fc68aaedb0",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "deleted meassge show or not?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:13:50.055Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
+    ]
+  },
+  {
+    "id": "b6030a2d-43d0-42cc-8582-0eebc67bb6f8",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "delete function is already working",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:14:07.665Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "5d2799f0-e256-41e2-ad99-a692c029121c"
     ]
   }
 ]
