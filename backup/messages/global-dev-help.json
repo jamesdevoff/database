@@ -2806,11 +2806,11 @@
     ]
   },
   {
-    "id": "17a585f0-2e39-4ef2-8b2c-f21181b1bffd",
+    "id": "180a9343-1f75-44a2-a886-0e85f6af387d",
     "chatId": "global-dev-help",
     "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
     "type": "text",
-    "text": "hi",
+    "text": "recently I send hi can it's show or not?",
     "mediaUrl": null,
     "mediaType": null,
     "caption": null,
@@ -2818,10 +2818,13 @@
     "carouselItems": null,
     "location": null,
     "code": null,
-    "createdAt": "2026-07-19T18:10:16.680Z",
+    "createdAt": "2026-07-19T18:11:00.418Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
