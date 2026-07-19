@@ -1409,5 +1409,24 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "40874daf-6445-4f6c-b0d1-29780eadcb61",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "123",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:14:24.353Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
   }
 ]
