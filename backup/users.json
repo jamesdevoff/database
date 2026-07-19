@@ -4,15 +4,15 @@
     "username": "jamesmodz",
     "displayName": "James",
     "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
-    "avatarUrl": "/uploads/avatars/0b24b1dd-da4a-40f2-962c-0ef1749949ae.jpg",
+    "avatarUrl": "/uploads/avatars/c4adf208-1154-4966-90cb-f3bffa4dafcd.jpg",
     "wallpaperUrl": null,
-    "bio": "",
+    "bio": "tech client from inco operative",
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T07:36:30.422Z",
+    "lastSeen": "2026-07-19T15:53:28.684Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [],
     "warnings": []
@@ -42,5 +42,23 @@
         "at": "2026-07-19T03:10:54.246Z"
       }
     ]
+  },
+  {
+    "id": "2d00d457-aa7c-4018-9787-bba1519ab52c",
+    "username": "user1",
+    "displayName": "user",
+    "passwordHash": "$2a$10$AqwMwfyY4jYkgs0FmXebO.dn/GKXrpaHKT7yO3CQ2489riAZIVAgq",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": true,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T15:48:37.681Z",
+    "createdAt": "2026-07-19T15:48:37.681Z",
+    "blockedUserIds": [],
+    "warnings": []
   }
 ]
