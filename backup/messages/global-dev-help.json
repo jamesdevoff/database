@@ -19,5 +19,24 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "179aa9d9-c286-4a36-8f88-dbd4e3c1f7f8",
+    "chatId": "global-dev-help",
+    "senderId": "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+    "type": "text",
+    "text": "hi",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T03:34:34.253Z",
+    "deliveredTo": [
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016"
+    ],
+    "readBy": []
   }
 ]
