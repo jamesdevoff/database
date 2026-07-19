@@ -3413,8 +3413,117 @@
     "code": null,
     "createdAt": "2026-07-19T18:19:42.560Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
+    ]
+  },
+  {
+    "id": "856f7b8f-203e-4031-b244-b96c4f0a6a8a",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "you delete go",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:19:52.780Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
+    ]
+  },
+  {
+    "id": "17207628-0f37-4453-b5ea-6c377a50a6de",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/f8322c13-3df8-41d8-8c24-4342d11e5310.jpg",
+    "mediaType": "application/octet-stream",
+    "caption": "",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:20:02.301Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c"
+    ]
+  },
+  {
+    "id": "7b45c6fd-2244-4363-8d92-7a4c22eb9877",
+    "chatId": "global-dev-help",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "ok take care",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:20:39.784Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "d5142593-ea84-44a7-bc78-6cdcab62d650",
+    "chatId": "global-dev-help",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "ok",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:21:45.271Z",
+    "deliveredTo": [
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
