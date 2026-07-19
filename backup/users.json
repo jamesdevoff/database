@@ -10,11 +10,13 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:34:31.105Z",
+    "lastSeen": "2026-07-19T17:35:55.320Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
-    "blockedUserIds": [],
+    "blockedUserIds": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
     "warnings": []
   },
   {
@@ -77,7 +79,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:34:46.287Z",
+    "lastSeen": "2026-07-19T17:44:28.393Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [],
     "warnings": []
@@ -113,8 +115,31 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-19T17:20:36.014Z",
+    "lastSeen": "2026-07-19T17:44:10.793Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
+    "blockedUserIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "warnings": [],
+    "banReason": null,
+    "bannedBy": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "bannedAt": "2026-07-19T17:40:53.932Z"
+  },
+  {
+    "id": "0e22440a-05f4-40ca-bcea-2deb8f496732",
+    "username": "jge",
+    "displayName": "Prim",
+    "passwordHash": "$2a$10$Four7Zt.5ZaKBLPa15sqi.hgDw8K1qGqlW4RuzV7x21Xer6nPUzvS",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "lastSeen": "2026-07-19T17:44:06.676Z",
+    "createdAt": "2026-07-19T17:44:06.676Z",
     "blockedUserIds": [],
     "warnings": []
   }
