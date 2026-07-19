@@ -1250,9 +1250,12 @@
     "code": null,
     "createdAt": "2026-07-19T17:55:17.681Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "ef4b346c-893f-4a49-9797-a753505e27e1",
@@ -1269,9 +1272,12 @@
     "code": null,
     "createdAt": "2026-07-19T17:58:49.601Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "fb790bf2-fb6e-403e-8a0d-7bcfa931c45a",
@@ -1288,9 +1294,12 @@
     "code": null,
     "createdAt": "2026-07-19T17:59:38.839Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "440eb22b-a2c6-4ead-a402-4c4ff72104a7",
@@ -1307,9 +1316,12 @@
     "code": null,
     "createdAt": "2026-07-19T18:00:19.130Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "3722629f-1e10-47c2-a337-3f8edb75c631",
@@ -1326,8 +1338,28 @@
     "code": null,
     "createdAt": "2026-07-19T18:06:39.240Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "8a55da6b-963b-4b73-bed7-ba0a4bd81d76",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "next version wait for all bugs fixed and maybe new features",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T18:10:48.944Z",
+    "deliveredTo": [],
     "readBy": []
   }
 ]
