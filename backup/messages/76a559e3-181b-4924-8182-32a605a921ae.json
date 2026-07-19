@@ -14,9 +14,12 @@
     "code": null,
     "createdAt": "2026-07-19T17:57:23.440Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "d9900815-068e-4c83-a13e-58ba3a2a4b9b",
@@ -33,8 +36,33 @@
     "code": null,
     "createdAt": "2026-07-19T17:57:37.480Z",
     "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "2febb9b7-b96a-4c4b-9ee5-dc223a648a78",
+    "chatId": "76a559e3-181b-4924-8182-32a605a921ae",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "😂😂😂",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T17:59:32.316Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
-    "readBy": []
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
   }
 ]
