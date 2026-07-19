@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T03:28:37.482Z",
+    "lastSeen": "2026-07-19T03:41:28.597Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [],
     "warnings": []
@@ -23,16 +23,18 @@
     "displayName": "test",
     "passwordHash": "$2a$10$E77ZAToNQamolI9CrCb5beud58YNne0MeHQKPS.CGb3B9yEoiYKsm",
     "avatarUrl": null,
-    "wallpaperUrl": null,
-    "bio": "",
+    "wallpaperUrl": "/uploads/avatars/be34115b-e914-41e6-af5c-3d280d03d675.jpg",
+    "bio": "king of steeze",
     "isOwner": false,
     "isAdmin": false,
-    "isVerified": true,
+    "isVerified": false,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-19T03:04:01.372Z",
+    "lastSeen": "2026-07-19T03:38:05.570Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
-    "blockedUserIds": [],
+    "blockedUserIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
     "warnings": [
       {
         "reason": "violation ",
