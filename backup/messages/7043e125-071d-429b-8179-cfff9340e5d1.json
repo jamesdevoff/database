@@ -1,0 +1,178 @@
+[
+  {
+    "id": "e0372f37-00ec-476b-ae3d-910b5f70a08f",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hey",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:43:25.089Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "63df1c29-8f66-4dd0-845d-9f175e77f446",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "dude",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:43:33.413Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "ebe6eba6-a2d4-456e-9a56-ad83f8a2a631",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "I'm here",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:43:38.241Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "15bb7982-10f7-402b-ac67-d0be60cbf2f3",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "ok done?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:43:42.712Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "7d90cb7e-b75b-42b3-9b1f-01f8e4f620b5",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "i think it's good this side",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:44:09.333Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "fdb54fff-6b21-4b49-b836-8be66d6315da",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hm",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:44:24.296Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "76538e76-dcda-4f75-8935-062ebe2f58d7",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "yeah",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:44:26.443Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "5018c9ff-aa9d-4136-b1dc-2da039f4c118",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "did notification work that side",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-19T16:44:51.531Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  }
+]
