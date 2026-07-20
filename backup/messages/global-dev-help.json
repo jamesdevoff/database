@@ -3823,5 +3823,24 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ]
+  },
+  {
+    "id": "7c8101b4-82d5-4690-aad9-52a2f6cf830c",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "there is an update",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "createdAt": "2026-07-20T05:39:06.993Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
