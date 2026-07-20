@@ -190,7 +190,8 @@
     "ownerId": null,
     "adminIds": [],
     "restrictedUserIds": [],
-    "createdAt": "2026-07-19T17:26:16.492Z"
+    "createdAt": "2026-07-19T17:26:16.492Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "help-center-4e377e8c-1550-40a0-abf6-5c75cbd46226",
