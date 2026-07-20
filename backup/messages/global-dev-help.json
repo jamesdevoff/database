@@ -3899,6 +3899,32 @@
     "replyToPreview": null,
     "createdAt": "2026-07-20T06:21:28.346Z",
     "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ]
+  },
+  {
+    "id": "ab569269-9054-413d-885f-340e568a9c6a",
+    "chatId": "global-dev-help",
+    "senderId": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "type": "text",
+    "text": "😂",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-20T06:58:57.857Z",
+    "deliveredTo": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
