@@ -12,7 +12,7 @@
     "isVerified": false,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-20T06:39:13.198Z",
+    "lastSeen": "2026-07-20T07:04:04.204Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -223,7 +223,7 @@
     "username": "Prezxy",
     "displayName": "𝕻rᥱ᥊zᥡ",
     "passwordHash": "$2a$10$E5HjykISSGRwnL4Narq2JOWRWrtyISFE/rs5uu05Kh.8M9TL9iCXS",
-    "avatarUrl": null,
+    "avatarUrl": "/uploads/avatars/d4325719-5ed1-4893-9070-75e4cecde95a.jpg",
     "wallpaperUrl": null,
     "bio": "",
     "isOwner": false,
@@ -231,7 +231,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-20T06:14:59.286Z",
+    "lastSeen": "2026-07-20T07:03:20.013Z",
     "createdAt": "2026-07-19T20:46:09.179Z",
     "blockedUserIds": [],
     "warnings": []
