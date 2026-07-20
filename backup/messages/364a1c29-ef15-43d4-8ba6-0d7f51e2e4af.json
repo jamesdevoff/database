@@ -58,8 +58,11 @@
     "code": null,
     "createdAt": "2026-07-19T18:39:55.388Z",
     "deliveredTo": [
-      "167b019e-bd25-44c1-a473-5bddd23c77bd"
+      "167b019e-bd25-44c1-a473-5bddd23c77bd",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
