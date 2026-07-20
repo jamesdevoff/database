@@ -3839,8 +3839,35 @@
     "code": null,
     "createdAt": "2026-07-20T05:39:06.993Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
     ],
-    "readBy": []
+    "readBy": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ]
+  },
+  {
+    "id": "c0133537-5f61-4f75-bb67-897ee914f0e1",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-20T06:06:42.869Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ]
   }
 ]
