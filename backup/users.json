@@ -9,10 +9,10 @@
     "bio": "owner ❤️\njames modz 😊\ndeveloper ✅\nTech GuRu ✅",
     "isOwner": true,
     "isAdmin": true,
-    "isVerified": false,
+    "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-20T08:01:55.653Z",
+    "lastSeen": "2026-07-20T08:10:17.908Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
