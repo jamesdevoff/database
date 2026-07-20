@@ -23,7 +23,8 @@
     "restrictedUserIds": [],
     "isVerified": true,
     "isOfficial": true,
-    "createdAt": "2026-07-18T16:58:08.059Z"
+    "createdAt": "2026-07-18T16:58:08.059Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "help-center-91cc0acc-3ecf-4a10-9c36-242fcd429bff",
