@@ -635,5 +635,47 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "2a31cc6c-f759-40e7-9127-42da70d50cf1",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "bro",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-20T08:59:29.093Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "53fcb005-9432-450a-9474-28d3a896eec2",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "text now",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-20T08:59:33.761Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
