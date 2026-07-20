@@ -4,15 +4,15 @@
     "username": "jamesmodz",
     "displayName": "James",
     "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
-    "avatarUrl": "/uploads/avatars/c4adf208-1154-4966-90cb-f3bffa4dafcd.jpg",
+    "avatarUrl": "/uploads/avatars/bf4a4b1f-3e6c-442e-9c9c-cacda6af3e15.jpg",
     "wallpaperUrl": null,
     "bio": "owner ❤️\njames modz 😊\ndeveloper ✅\nTech GuRu ✅",
     "isOwner": true,
     "isAdmin": true,
-    "isVerified": true,
+    "isVerified": false,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-20T06:11:48.171Z",
+    "lastSeen": "2026-07-20T06:23:08.110Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226"
@@ -31,7 +31,7 @@
     "isAdmin": false,
     "isVerified": false,
     "isOnline": false,
-    "isBanned": true,
+    "isBanned": false,
     "lastSeen": "2026-07-19T15:37:26.146Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
     "blockedUserIds": [
@@ -44,7 +44,7 @@
         "at": "2026-07-19T03:10:54.246Z"
       }
     ],
-    "banReason": "testing ",
+    "banReason": null,
     "bannedBy": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "bannedAt": "2026-07-19T16:32:51.114Z"
   },
@@ -58,7 +58,7 @@
     "bio": "",
     "isOwner": false,
     "isAdmin": false,
-    "isVerified": false,
+    "isVerified": true,
     "isOnline": false,
     "isBanned": false,
     "lastSeen": "2026-07-19T16:30:35.803Z",
