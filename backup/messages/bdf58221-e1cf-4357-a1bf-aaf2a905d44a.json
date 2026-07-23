@@ -773,8 +773,57 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:25:49.203Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
     ],
-    "readBy": []
+    "readBy": [
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+    ]
+  },
+  {
+    "id": "15295a85-cf32-41b4-99c6-8b8d40dc35f4",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "1553967b-dc4f-4047-9aec-13d282f00dd6",
+    "type": "text",
+    "text": "y",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T15:58:51.283Z",
+    "deliveredTo": [
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+    ],
+    "readBy": [
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+    ]
+  },
+  {
+    "id": "3594e79f-507b-4eb2-aeab-6dafee22cf39",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "1553967b-dc4f-4047-9aec-13d282f00dd6",
+    "type": "text",
+    "text": "h",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T15:59:58.782Z",
+    "deliveredTo": [
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+    ],
+    "readBy": [
+      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+    ]
   }
 ]
