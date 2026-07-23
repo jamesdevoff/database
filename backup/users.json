@@ -12,13 +12,13 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-23T15:19:34.335Z",
+    "lastSeen": "2026-07-23T15:25:55.851Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
     ],
     "warnings": [],
-    "badgeColor": "#9b59b6",
+    "badgeColor": "#2ecc71",
     "badgeStyle": "solid",
     "badgeAnimated": true
   },
