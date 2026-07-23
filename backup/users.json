@@ -436,5 +436,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "username": "ALIENXX",
+    "displayName": "ALIENXX",
+    "passwordHash": "$2a$10$p2PefE//E0pUQBXNScjufOW6a02YVl/jZs38CyNd9BCzfEdrgOm..",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": true,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-23T20:45:53.636Z",
+    "createdAt": "2026-07-23T20:44:09.568Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
