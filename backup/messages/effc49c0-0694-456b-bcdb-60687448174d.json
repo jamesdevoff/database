@@ -40,8 +40,11 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T15:54:32.194Z",
     "deliveredTo": [
-      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+      "1553967b-dc4f-4047-9aec-13d282f00dd6",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
