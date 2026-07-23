@@ -132,7 +132,10 @@
     "warnings": [],
     "banReason": null,
     "bannedBy": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-    "bannedAt": "2026-07-19T17:40:53.932Z"
+    "bannedAt": "2026-07-19T17:40:53.932Z",
+    "badgeColor": "#9b59b6",
+    "badgeStyle": "solid",
+    "badgeAnimated": true
   },
   {
     "id": "0e22440a-05f4-40ca-bcea-2deb8f496732",
@@ -277,14 +280,14 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": false,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
     "isDeleted": false,
     "deletedAt": null,
     "badgeColor": "#3498DB",
     "badgeStyle": "solid",
     "badgeAnimated": false,
-    "lastSeen": "2026-07-23T12:38:45.728Z",
+    "lastSeen": "2026-07-23T15:58:10.658Z",
     "createdAt": "2026-07-23T12:34:31.308Z",
     "blockedUserIds": [],
     "warnings": [],
