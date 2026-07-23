@@ -1,0 +1,44 @@
+[
+  {
+    "id": "47f08881-d3da-4523-8d53-61f7f0acf261",
+    "chatId": "help-center-e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "hi James mod",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T20:48:55.447Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "24c9d844-c079-43ad-b391-6161b9fa8d34",
+    "chatId": "help-center-e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "pls I need the blue badge",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T20:49:18.987Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
+  }
+]
