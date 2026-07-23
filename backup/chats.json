@@ -18,7 +18,8 @@
       "167b019e-bd25-44c1-a473-5bddd23c77bd",
       "ca36750b-5637-4cf6-a152-9b55898ebb10",
       "42a49847-dd0b-4a92-a354-34647aacd210",
-      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+      "1553967b-dc4f-4047-9aec-13d282f00dd6",
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -92,7 +93,8 @@
       "167b019e-bd25-44c1-a473-5bddd23c77bd",
       "ca36750b-5637-4cf6-a152-9b55898ebb10",
       "42a49847-dd0b-4a92-a354-34647aacd210",
-      "1553967b-dc4f-4047-9aec-13d282f00dd6"
+      "1553967b-dc4f-4047-9aec-13d282f00dd6",
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -384,5 +386,21 @@
     "restrictedUserIds": [],
     "createdAt": "2026-07-23T15:32:14.838Z",
     "hiddenForUserIds": []
+  },
+  {
+    "id": "help-center-e960716c-92e0-42cb-9fe9-8117acc6fd19",
+    "type": "help_center",
+    "name": "Help Center",
+    "description": "Message the ZipDevs team directly.",
+    "participantIds": [
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "adminIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-23T16:07:40.543Z"
   }
 ]
