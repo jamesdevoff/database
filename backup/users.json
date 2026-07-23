@@ -2,7 +2,7 @@
   {
     "id": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "username": "jamesmodz",
-    "displayName": "James",
+    "displayName": "James Dev",
     "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
     "avatarUrl": "/uploads/avatars/b00a542a-7ad1-4e90-9545-4579aca7a95f.jpg",
     "wallpaperUrl": null,
@@ -18,7 +18,7 @@
       ""
     ],
     "warnings": [],
-    "badgeColor": "#e74c3c",
+    "badgeColor": "#9b59b6",
     "badgeStyle": "solid",
     "badgeAnimated": true
   },
@@ -80,9 +80,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-23T13:13:30.287Z",
+    "lastSeen": "2026-07-23T13:16:18.782Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
