@@ -20,11 +20,12 @@
       "42a49847-dd0b-4a92-a354-34647aacd210",
       "1553967b-dc4f-4047-9aec-13d282f00dd6"
     ],
-    "ownerId": null,
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [],
     "restrictedUserIds": [],
     "isVerified": true,
     "isOfficial": true,
+    "avatarUrl": "/uploads/avatars/b00a542a-7ad1-4e90-9545-4579aca7a95f.jpg",
     "createdAt": "2026-07-18T16:58:08.059Z",
     "hiddenForUserIds": []
   },
