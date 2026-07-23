@@ -451,5 +451,32 @@
     "restrictedUserIds": [],
     "createdAt": "2026-07-23T16:39:34.303Z",
     "hiddenForUserIds": []
+  },
+  {
+    "id": "6f7dfc24-0d43-4006-9f07-255d5e6bcee3",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "d3f02aca-ffb1-4e6c-9b20-a0b3b0116338",
+      "6a396835-2d50-42f7-a55e-153d09943b24"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-23T16:40:49.050Z",
+    "hiddenForUserIds": []
+  },
+  {
+    "id": "b43e37bb-b42d-4b59-9ecb-ca4324afb387",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "d3f02aca-ffb1-4e6c-9b20-a0b3b0116338",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-23T16:44:02.063Z"
   }
 ]
