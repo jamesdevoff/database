@@ -16,7 +16,52 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T20:48:05.307Z",
     "deliveredTo": [
-      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+      "e275d378-d4ab-465d-a850-3a74ea917b0e",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ]
+  },
+  {
+    "id": "d244b7ec-68d8-42f7-8a33-cfcfbd766556",
+    "chatId": "9e591c67-4a39-4105-95a8-eac5152a9316",
+    "senderId": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "type": "text",
+    "text": "good evening to u bro",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T21:38:43.215Z",
+    "deliveredTo": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "4c631773-d54d-4863-8301-6d947856c6e7",
+    "chatId": "9e591c67-4a39-4105-95a8-eac5152a9316",
+    "senderId": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "type": "text",
+    "text": "how are u doing?",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T21:38:50.434Z",
+    "deliveredTo": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
     ],
     "readBy": []
   }
