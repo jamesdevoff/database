@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-23T12:11:50.871Z",
+    "lastSeen": "2026-07-23T12:18:42.728Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
@@ -238,5 +238,29 @@
     "createdAt": "2026-07-19T20:46:09.179Z",
     "blockedUserIds": [],
     "warnings": []
+  },
+  {
+    "id": "42a49847-dd0b-4a92-a354-34647aacd210",
+    "username": "blackcobraexpert",
+    "displayName": "blackcobraexpert",
+    "passwordHash": "$2a$10$Paxli7DqFA15iJkmDpvoB.ROFbLgH7GwxSJODT234rtFq15FQgcS6",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-23T12:22:06.845Z",
+    "createdAt": "2026-07-23T12:15:50.584Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
