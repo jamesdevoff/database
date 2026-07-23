@@ -2692,5 +2692,27 @@
     "createdAt": "2026-07-23T15:18:49.143Z",
     "deliveredTo": [],
     "readBy": []
+  },
+  {
+    "id": "d895889d-f107-4cf8-9e57-cf10821c3fbd",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "try to contact surport",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T18:08:42.242Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [],
+    "editedAt": "2026-07-23T18:08:59.777Z"
   }
 ]
