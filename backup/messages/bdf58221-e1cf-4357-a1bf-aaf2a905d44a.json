@@ -653,9 +653,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-20T08:59:29.093Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
     ],
-    "readBy": []
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
   },
   {
     "id": "53fcb005-9432-450a-9474-28d3a896eec2",
@@ -674,7 +677,79 @@
     "replyToPreview": null,
     "createdAt": "2026-07-20T08:59:33.761Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "3cae42a9-b7dd-4f6d-817d-ccaf2ce9180f",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "p",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:05:56.107Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "08041bad-086b-4784-a747-37590a1ecb33",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "sticker",
+    "text": null,
+    "mediaUrl": "/uploads/stickers/happy.webp",
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:06:04.822Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ],
+    "readBy": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+    ]
+  },
+  {
+    "id": "d6c6b2f3-4e67-4551-85c2-1a4ca7bf6510",
+    "chatId": "bdf58221-e1cf-4357-a1bf-aaf2a905d44a",
+    "senderId": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "type": "text",
+    "text": "yo",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:13:26.846Z",
+    "deliveredTo": [
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
     ],
     "readBy": []
   }
