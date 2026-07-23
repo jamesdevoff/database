@@ -5125,5 +5125,26 @@
       "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
     "readBy": []
+  },
+  {
+    "id": "761463ad-6e7b-4398-876c-9f403385f984",
+    "chatId": "global-dev-help",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "sticker",
+    "text": null,
+    "mediaUrl": "/uploads/stickers/happy.webp",
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T20:57:44.681Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
   }
 ]
