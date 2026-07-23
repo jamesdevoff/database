@@ -2207,6 +2207,30 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T13:04:02.246Z",
     "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "761dab05-0c0f-4592-a6c8-7ecdcde42338",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "sticker",
+    "text": null,
+    "mediaUrl": "/uploads/stickers/sad.webp",
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T13:14:21.853Z",
+    "deliveredTo": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
