@@ -111,7 +111,8 @@
     "ownerId": null,
     "adminIds": [],
     "restrictedUserIds": [],
-    "createdAt": "2026-07-19T15:50:14.053Z"
+    "createdAt": "2026-07-19T15:50:14.053Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "df301ba2-629e-493f-9c00-a8c531e1bae9",
