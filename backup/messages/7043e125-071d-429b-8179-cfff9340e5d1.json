@@ -2601,5 +2601,96 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "afe66bb2-8c63-4286-84f5-2ee2342409dd",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "https://www.mediafire.com/file/ws3x11bxdaec80n/%25.zip/file",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T15:15:00.732Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "bd5ce976-f28c-41fe-8de8-75010bbc2884",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "not guaranteed",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "afe66bb2-8c63-4286-84f5-2ee2342409dd",
+    "replyToPreview": "https://www.mediafire.com/file/ws3x11bxdaec80n/%25.zip/file",
+    "createdAt": "2026-07-23T15:15:16.342Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
+  },
+  {
+    "id": "1a83eb02-900d-454b-b07f-609070a1e6cc",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "really 🥺",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "bd5ce976-f28c-41fe-8de8-75010bbc2884",
+    "replyToPreview": "not guaranteed",
+    "createdAt": "2026-07-23T15:17:55.741Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "ff63e221-20be-443c-8e7e-74841624f3ff",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "just test",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "1a83eb02-900d-454b-b07f-609070a1e6cc",
+    "replyToPreview": "really 🥺",
+    "createdAt": "2026-07-23T15:18:49.143Z",
+    "deliveredTo": [],
+    "readBy": []
   }
 ]
