@@ -2087,9 +2087,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:42:31.328Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "4f437d9f-3c6d-4d06-8c2e-d28799c6f707",
@@ -2108,9 +2111,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:42:46.984Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "8942070a-0e31-4400-957d-37b89a232ea1",
@@ -2129,8 +2135,59 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:42:56.222Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "449311c1-314e-40a0-9ee9-d3fd1aeb958b",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "it's from me",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:47:23.093Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "32c5747e-24c3-4bb4-affc-70fd12d33eff",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/d2368e8a-23fc-47d2-a8f9-3159542a0a4e.jpg",
+    "mediaType": "application/octet-stream",
+    "caption": "",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:47:36.234Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
