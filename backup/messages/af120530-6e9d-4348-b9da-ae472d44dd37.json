@@ -21,5 +21,26 @@
     "readBy": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "e546cfd2-c519-4bf4-baaf-2de6aa208a42",
+    "chatId": "af120530-6e9d-4348-b9da-ae472d44dd37",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "media",
+    "text": null,
+    "mediaUrl": "/uploads/media/111a6b5b-6ce2-45df-9dfd-a126a35a2475.mp4",
+    "mediaType": "application/octet-stream",
+    "caption": "holla ",
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T18:06:09.044Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
