@@ -749,8 +749,11 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:13:26.846Z",
     "deliveredTo": [
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
