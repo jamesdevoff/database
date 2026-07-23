@@ -264,12 +264,11 @@
   {
     "id": "76a559e3-181b-4924-8182-32a605a921ae",
     "type": "group",
-    "name": "new group",
+    "name": "COBRA 🐍 & JAMES",
     "description": "",
     "participantIds": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "4e377e8c-1550-40a0-abf6-5c75cbd46226"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "ownerId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
     "adminIds": [
@@ -278,7 +277,12 @@
     "restrictedUserIds": [],
     "isVerified": false,
     "isOfficial": false,
-    "createdAt": "2026-07-19T17:57:10.972Z"
+    "createdAt": "2026-07-19T17:57:10.972Z",
+    "hiddenForUserIds": [],
+    "isPublic": true,
+    "kickCooldowns": {
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226": "2026-07-23T12:40:33.483Z"
+    }
   },
   {
     "id": "82248ea9-df38-473e-a269-4389dedf1cc4",
