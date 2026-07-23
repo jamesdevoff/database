@@ -412,5 +412,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "fd594e8b-3ce7-4ea9-b1ca-a3de25621af8",
+    "username": "𝕵𝖙𝖘𝖎𝖑𝖛𝖊𝖗",
+    "displayName": "𝕿𝖉𝖙 𝕵𝖙𝖘𝖎𝖑𝖛𝖊𝖗",
+    "passwordHash": "$2a$10$wkUmsEElRa/a/3XmWR2O1el9RNitZJgxv/24CD7kieLmcanszjtDK",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "If I don't have to, Am not going to 🫩",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-23T17:40:23.225Z",
+    "createdAt": "2026-07-23T17:35:48.295Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
