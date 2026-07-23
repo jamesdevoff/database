@@ -6,20 +6,20 @@
     "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
     "avatarUrl": "/uploads/avatars/b00a542a-7ad1-4e90-9545-4579aca7a95f.jpg",
     "wallpaperUrl": null,
-    "bio": "owner ❤️\njames modz 😊\ndeveloper ✅\nTech GuRu ✅",
+    "bio": "𝗔 𝗺𝗼𝘁𝗵𝗲𝗿 𝘁𝗮𝗸𝗲𝘀 20 𝘆𝗲𝗮𝗿𝘀 𝘁𝗼 𝗺𝗮𝗸𝗲 𝗵𝗶𝘀 𝘀𝗼𝗻 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗯𝘂𝘁 𝗮 𝗴𝗶𝗿𝗹 𝗺𝗮𝗸𝗲𝘀 𝗵𝗶𝗺 𝘀𝘁𝘂𝗽𝗶𝗱 𝗶𝗻 𝘀𝗲𝗰𝗼𝗻𝗱𝘀",
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-23T12:26:46.931Z",
+    "lastSeen": "2026-07-23T12:32:16.260Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
     ],
     "warnings": [],
-    "badgeColor": "#e74c3c",
-    "badgeStyle": "solid",
+    "badgeColor": "#f1c40f",
+    "badgeStyle": "outline",
     "badgeAnimated": true
   },
   {
@@ -257,7 +257,7 @@
     "badgeColor": "#3498DB",
     "badgeStyle": "solid",
     "badgeAnimated": false,
-    "lastSeen": "2026-07-23T12:22:06.845Z",
+    "lastSeen": "2026-07-23T12:28:37.963Z",
     "createdAt": "2026-07-23T12:15:50.584Z",
     "blockedUserIds": [],
     "warnings": [],
