@@ -4891,5 +4891,26 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
+  },
+  {
+    "id": "cb1798be-c17e-4f7c-8fea-f86172887f94",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "beta testers anyone try to contact surport",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T18:03:07.603Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
