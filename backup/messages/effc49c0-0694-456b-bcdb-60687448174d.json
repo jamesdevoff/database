@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5cdc0f74-ea67-49be-a03a-b3300f9eac1a",
+    "chatId": "effc49c0-0694-456b-bcdb-60687448174d",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "yoh",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T15:32:25.498Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  }
+]
