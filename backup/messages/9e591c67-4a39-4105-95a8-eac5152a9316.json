@@ -1,0 +1,23 @@
+[
+  {
+    "id": "07e67429-12b5-44ca-93be-a305c42fe199",
+    "chatId": "9e591c67-4a39-4105-95a8-eac5152a9316",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "gud evening bro",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T20:48:05.307Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
+  }
+]
