@@ -262,5 +262,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "1553967b-dc4f-4047-9aec-13d282f00dd6",
+    "username": "Primis2",
+    "displayName": "Ds Primis",
+    "passwordHash": "$2a$10$GNYSpb7V5gqGyBFqcsRerem.4RmsCkda7ibXHv5YabX.JVtW1KPme",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-23T12:34:31.308Z",
+    "createdAt": "2026-07-23T12:34:31.308Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
