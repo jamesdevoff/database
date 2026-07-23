@@ -1493,10 +1493,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:20:51.042Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -1516,10 +1518,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:20:55.289Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -1539,10 +1543,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:21:05.789Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -1562,10 +1568,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:21:41.038Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -1585,10 +1593,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:21:42.950Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -1608,10 +1618,75 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T12:22:00.566Z",
     "deliveredTo": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "42a49847-dd0b-4a92-a354-34647aacd210"
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "accf24a6-ed6f-410c-9544-3b733a43a2a6",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "😹😹😂😂",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:25:27.887Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "9d1947ad-bc26-4963-bb07-69b48b0cc44d",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "sticker",
+    "text": null,
+    "mediaUrl": "/uploads/stickers/happy.webp",
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-23T12:25:39.971Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "4a1d281b-25a4-4386-b761-8d6f73c834cb",
+    "chatId": "7043e125-071d-429b-8179-cfff9340e5d1",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "alo alo",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "be4dc07e-c89a-4de6-a9e8-6bc28420b46e",
+    "replyToPreview": "you",
+    "createdAt": "2026-07-23T12:26:21.506Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
