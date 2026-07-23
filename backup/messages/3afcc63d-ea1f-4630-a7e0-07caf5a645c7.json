@@ -44,28 +44,5 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "2d00d457-aa7c-4018-9787-bba1519ab52c"
     ]
-  },
-  {
-    "id": "6e91968b-277c-4299-8b41-ab6d86881383",
-    "chatId": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
-    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-    "type": "media",
-    "text": null,
-    "mediaUrl": "/uploads/media/1d3b3b5c-f83c-4f68-bd0e-3a45ff80d111.mp4",
-    "mediaType": "application/octet-stream",
-    "caption": null,
-    "buttons": null,
-    "carouselItems": null,
-    "location": null,
-    "code": null,
-    "createdAt": "2026-07-19T15:51:10.279Z",
-    "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "2d00d457-aa7c-4018-9787-bba1519ab52c"
-    ],
-    "readBy": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-      "2d00d457-aa7c-4018-9787-bba1519ab52c"
-    ]
   }
 ]
