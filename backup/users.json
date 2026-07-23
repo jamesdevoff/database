@@ -4,7 +4,7 @@
     "username": "jamesmodz",
     "displayName": "James",
     "passwordHash": "$2a$10$KBVVsNRoWpA.OFjTTeAP9O9P7TcR2uv8uxKCsClPr8xPkTG0zyWAu",
-    "avatarUrl": "/uploads/avatars/bf4a4b1f-3e6c-442e-9c9c-cacda6af3e15.jpg",
+    "avatarUrl": "/uploads/avatars/b00a542a-7ad1-4e90-9545-4579aca7a95f.jpg",
     "wallpaperUrl": null,
     "bio": "owner ❤️\njames modz 😊\ndeveloper ✅\nTech GuRu ✅",
     "isOwner": true,
@@ -12,12 +12,15 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-20T09:07:43.123Z",
+    "lastSeen": "2026-07-23T12:11:50.871Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
     ],
-    "warnings": []
+    "warnings": [],
+    "badgeColor": "#e74c3c",
+    "badgeStyle": "solid",
+    "badgeAnimated": true
   },
   {
     "id": "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
@@ -118,7 +121,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-20T07:50:06.947Z",
+    "lastSeen": "2026-07-23T12:13:47.560Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
     "blockedUserIds": [
       ""
