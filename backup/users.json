@@ -10,9 +10,9 @@
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-23T13:13:42.369Z",
+    "lastSeen": "2026-07-23T13:25:19.736Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
@@ -80,9 +80,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-23T13:16:18.782Z",
+    "lastSeen": "2026-07-23T13:18:19.220Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
