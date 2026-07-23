@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-23T12:32:16.260Z",
+    "lastSeen": "2026-07-23T12:40:13.010Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
@@ -34,7 +34,7 @@
     "isAdmin": false,
     "isVerified": false,
     "isOnline": false,
-    "isBanned": false,
+    "isBanned": true,
     "lastSeen": "2026-07-19T15:37:26.146Z",
     "createdAt": "2026-07-19T03:04:01.372Z",
     "blockedUserIds": [
@@ -47,9 +47,9 @@
         "at": "2026-07-19T03:10:54.246Z"
       }
     ],
-    "banReason": null,
+    "banReason": "violation ",
     "bannedBy": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
-    "bannedAt": "2026-07-19T16:32:51.114Z"
+    "bannedAt": "2026-07-23T12:36:29.556Z"
   },
   {
     "id": "2d00d457-aa7c-4018-9787-bba1519ab52c",
@@ -72,7 +72,7 @@
   {
     "id": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
     "username": "BLACK COBRA EXPERT",
-    "displayName": "BLACK COBRA EXPERT",
+    "displayName": "👿༆☠️🇧 ᴸᴬᶜᴷ ☠︎︎🇨 ᴼᴮᴿᴬ☠︎︎ 🇪 ˣᴾᴱᴿᵀ☠︎︎☠️༆👿",
     "passwordHash": "$2a$10$vGzgrHUEzs2XoRxM03Ei0eHaTDFqVil1/rZrgePk6sMtnx9T1Hu3i",
     "avatarUrl": "/uploads/avatars/7e1ce79a-430a-4beb-a923-76eb4f25cbb2.jpg",
     "wallpaperUrl": null,
@@ -80,9 +80,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-20T08:23:14.539Z",
+    "lastSeen": "2026-07-23T12:43:56.313Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
@@ -281,7 +281,7 @@
     "badgeColor": "#3498DB",
     "badgeStyle": "solid",
     "badgeAnimated": false,
-    "lastSeen": "2026-07-23T12:34:31.308Z",
+    "lastSeen": "2026-07-23T12:38:45.728Z",
     "createdAt": "2026-07-23T12:34:31.308Z",
     "blockedUserIds": [],
     "warnings": [],
