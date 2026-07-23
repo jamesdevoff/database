@@ -49,7 +49,8 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "restrictedUserIds": [],
-    "createdAt": "2026-07-19T03:02:47.324Z"
+    "createdAt": "2026-07-19T03:02:47.324Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "help-center-d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
