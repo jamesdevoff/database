@@ -559,5 +559,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5",
+    "username": "Yasr@gmail.com",
+    "displayName": "hamis",
+    "passwordHash": "$2a$10$yygTokc0x/ZJtjKHPdqSReR9JnWAIVnb9a737l6dXp97ZqGshZ.uW",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-24T14:57:34.549Z",
+    "createdAt": "2026-07-24T14:55:36.494Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
