@@ -17,10 +17,12 @@
     "createdAt": "2026-07-24T09:53:21.812Z",
     "deliveredTo": [
       "e275d378-d4ab-465d-a850-3a74ea917b0e",
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
     ],
     "readBy": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
     ]
   },
   {
@@ -40,7 +42,31 @@
     "replyToPreview": null,
     "createdAt": "2026-07-24T12:07:08.144Z",
     "deliveredTo": [
-      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+    ],
+    "readBy": [
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+    ]
+  },
+  {
+    "id": "e871343c-8687-4652-8290-8a96d894c5d6",
+    "chatId": "0c5afe40-b088-4c6e-afe2-dee50ccab999",
+    "senderId": "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+    "type": "text",
+    "text": "widaa",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T14:36:08.467Z",
+    "deliveredTo": [
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
     ],
     "readBy": []
   }
