@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9c82115-e3d0-4ad7-b10b-aa747205b756",
+    "chatId": "f53bb0fd-0cb7-4165-b206-2bde69f1c53d",
+    "senderId": "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5",
+    "type": "text",
+    "text": "oi laka",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T14:56:35.793Z",
+    "deliveredTo": [
+      "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "c3d14232-286f-49c2-9896-657bbd7377f1",
+    "chatId": "f53bb0fd-0cb7-4165-b206-2bde69f1c53d",
+    "senderId": "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5",
+    "type": "text",
+    "text": "hello",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T14:56:40.740Z",
+    "deliveredTo": [
+      "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5"
+    ],
+    "readBy": []
+  }
+]
