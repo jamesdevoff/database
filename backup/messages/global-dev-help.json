@@ -5125,10 +5125,12 @@
     "createdAt": "2026-07-23T20:46:36.976Z",
     "deliveredTo": [
       "e275d378-d4ab-465d-a850-3a74ea917b0e",
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -5149,10 +5151,12 @@
     "createdAt": "2026-07-23T20:57:44.681Z",
     "deliveredTo": [
       "e275d378-d4ab-465d-a850-3a74ea917b0e",
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -5172,7 +5176,31 @@
     "replyToPreview": "ssup",
     "createdAt": "2026-07-23T21:39:19.482Z",
     "deliveredTo": [
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "0128acf0-0861-4ff3-9199-1c827863d6da",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "welcome G",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "b507be19-3507-4521-8cf0-708946edcc1d",
+    "replyToPreview": "hi guys am new here",
+    "createdAt": "2026-07-24T04:49:12.276Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
   }
