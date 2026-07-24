@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f67cdc26-cb67-46f1-887b-9fc2c2d22c03",
+    "chatId": "5176cfd6-c415-4891-b541-2f70bef122dc",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "good morning bro",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T10:25:50.836Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
+  }
+]
