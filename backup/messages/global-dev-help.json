@@ -5688,8 +5688,11 @@
     "replyToPreview": "welcome G",
     "createdAt": "2026-07-24T09:54:46.202Z",
     "deliveredTo": [
-      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+      "e275d378-d4ab-465d-a850-3a74ea917b0e",
+      "c293025b-ab7e-4f62-b4d6-73fe02561ab9"
     ],
-    "readBy": []
+    "readBy": [
+      "c293025b-ab7e-4f62-b4d6-73fe02561ab9"
+    ]
   }
 ]
