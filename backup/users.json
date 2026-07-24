@@ -80,9 +80,9 @@
     "isOwner": false,
     "isAdmin": false,
     "isVerified": true,
-    "isOnline": true,
+    "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-24T05:28:53.666Z",
+    "lastSeen": "2026-07-24T05:33:32.839Z",
     "createdAt": "2026-07-19T16:41:24.140Z",
     "blockedUserIds": [
       "4e377e8c-1550-40a0-abf6-5c75cbd46226",
