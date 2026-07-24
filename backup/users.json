@@ -511,5 +511,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "552c108b-3b25-4b26-9b49-921f13a2c1bf",
+    "username": "civic",
+    "displayName": "civic",
+    "passwordHash": "$2a$10$lPACC6GAu7ouwCcN1kayTejvrSwsQ4losl1Fwz00nUVEd1NjGbTFu",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-24T12:28:16.680Z",
+    "createdAt": "2026-07-24T12:26:56.546Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
