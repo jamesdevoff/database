@@ -2690,8 +2690,12 @@
     "replyToId": "1a83eb02-900d-454b-b07f-609070a1e6cc",
     "replyToPreview": "really 🥺",
     "createdAt": "2026-07-23T15:18:49.143Z",
-    "deliveredTo": [],
-    "readBy": []
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
   },
   {
     "id": "d895889d-f107-4cf8-9e57-cf10821c3fbd",
@@ -2710,9 +2714,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T18:08:42.242Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
-    "readBy": [],
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
     "editedAt": "2026-07-23T18:08:59.777Z"
   }
 ]
