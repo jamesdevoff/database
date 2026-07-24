@@ -12,7 +12,7 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-24T08:56:32.423Z",
+    "lastSeen": "2026-07-24T09:15:28.922Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
@@ -114,17 +114,17 @@
   {
     "id": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
     "username": "Primis",
-    "displayName": "D5 Primis",
+    "displayName": "Ds Primis",
     "passwordHash": "$2a$10$B.3NAUbdr7HP7/a8LXGkf.ljeF8RpiDZOAvm1Otxh7Nv.8bAViJte",
-    "avatarUrl": "/uploads/avatars/7447f7fb-0533-47f5-974c-7db572039f1b.jpg",
+    "avatarUrl": "/uploads/avatars/a9fbd413-b20c-4cb9-9adc-b4fd1226f4a3.jpg",
     "wallpaperUrl": null,
     "bio": "Betrayal is unforgivable",
     "isOwner": true,
     "isAdmin": true,
     "isVerified": true,
-    "isOnline": false,
+    "isOnline": true,
     "isBanned": false,
-    "lastSeen": "2026-07-24T09:03:46.846Z",
+    "lastSeen": "2026-07-24T09:18:34.691Z",
     "createdAt": "2026-07-19T17:20:34.138Z",
     "blockedUserIds": [
       ""
@@ -281,7 +281,7 @@
     "isAdmin": false,
     "isVerified": false,
     "isOnline": false,
-    "isBanned": false,
+    "isBanned": true,
     "isDeleted": false,
     "deletedAt": null,
     "badgeColor": "#3498DB",
@@ -291,7 +291,10 @@
     "createdAt": "2026-07-23T12:34:31.308Z",
     "blockedUserIds": [],
     "warnings": [],
-    "favoriteStickerIds": []
+    "favoriteStickerIds": [],
+    "banReason": null,
+    "bannedBy": "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+    "bannedAt": "2026-07-24T09:19:08.751Z"
   },
   {
     "id": "e960716c-92e0-42cb-9fe9-8117acc6fd19",
