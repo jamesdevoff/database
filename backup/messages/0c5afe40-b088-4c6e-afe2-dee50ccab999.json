@@ -1,0 +1,23 @@
+[
+  {
+    "id": "30d4bf84-439b-41d9-a9c3-dd3687614a63",
+    "chatId": "0c5afe40-b088-4c6e-afe2-dee50ccab999",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "good morning boss",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T09:53:21.812Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": []
+  }
+]
