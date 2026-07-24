@@ -116,7 +116,8 @@
     "restrictedUserIds": [],
     "isVerified": true,
     "isOfficial": true,
-    "createdAt": "2026-07-19T15:04:49.812Z"
+    "createdAt": "2026-07-19T15:04:49.812Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "3afcc63d-ea1f-4630-a7e0-07caf5a645c7",
@@ -514,5 +515,45 @@
     "restrictedUserIds": [],
     "createdAt": "2026-07-23T20:47:47.261Z",
     "hiddenForUserIds": []
+  },
+  {
+    "id": "0c5afe40-b088-4c6e-afe2-dee50ccab999",
+    "type": "group",
+    "name": "James modz",
+    "description": "official group for James tech incorporative",
+    "photoUrl": null,
+    "isPublic": true,
+    "participantIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
+      "2d00d457-aa7c-4018-9787-bba1519ab52c",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+      "417b0fdb-d56d-42aa-a120-a6d9d9f07384",
+      "4e377e8c-1550-40a0-abf6-5c75cbd46226",
+      "0e22440a-05f4-40ca-bcea-2deb8f496732",
+      "5d2799f0-e256-41e2-ad99-a692c029121c",
+      "72ed6d45-6180-4e36-9390-19220d7a1e33",
+      "1a8676c1-99a8-451b-981a-6bb57ebcc57c",
+      "167b019e-bd25-44c1-a473-5bddd23c77bd",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "42a49847-dd0b-4a92-a354-34647aacd210",
+      "1553967b-dc4f-4047-9aec-13d282f00dd6",
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19",
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "6a396835-2d50-42f7-a55e-153d09943b24",
+      "9c2bc7d4-2593-423c-9b98-536efd4837d4",
+      "d3f02aca-ffb1-4e6c-9b20-a0b3b0116338",
+      "fd594e8b-3ce7-4ea9-b1ca-a3de25621af8",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "adminIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "restrictedUserIds": [],
+    "kickCooldowns": {},
+    "isVerified": false,
+    "isOfficial": false,
+    "createdAt": "2026-07-24T04:59:59.054Z"
   }
 ]
