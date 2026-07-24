@@ -18,11 +18,13 @@
     "deliveredTo": [
       "e275d378-d4ab-465d-a850-3a74ea917b0e",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -43,10 +45,12 @@
     "createdAt": "2026-07-24T12:07:08.144Z",
     "deliveredTo": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
-      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -66,8 +70,11 @@
     "replyToPreview": null,
     "createdAt": "2026-07-24T14:36:08.467Z",
     "deliveredTo": [
-      "7bd9961f-f344-4ca7-8ab1-0554a1f989da"
+      "7bd9961f-f344-4ca7-8ab1-0554a1f989da",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   }
 ]
