@@ -559,7 +559,8 @@
     "kickCooldowns": {},
     "isVerified": false,
     "isOfficial": false,
-    "createdAt": "2026-07-24T04:59:59.054Z"
+    "createdAt": "2026-07-24T04:59:59.054Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "529b3156-791b-49de-8ad7-ae76ed8809bd",
