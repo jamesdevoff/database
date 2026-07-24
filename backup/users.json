@@ -583,5 +583,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "a0280d60-ffb0-4712-b006-71a49ef1deea",
+    "username": "LORD RAVEN",
+    "displayName": "LORD RAVEN",
+    "passwordHash": "$2a$10$CCGFPYw.FgfZCV15x4v.B.le3.gX9vi.QDRsa9KAOX.SfcH9XTMuC",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": true,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-24T17:38:19.795Z",
+    "createdAt": "2026-07-24T17:37:42.867Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
