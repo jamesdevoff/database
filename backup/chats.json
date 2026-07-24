@@ -523,7 +523,7 @@
     "name": "James modz",
     "description": "official group for James tech incorporative",
     "photoUrl": null,
-    "isPublic": true,
+    "isPublic": false,
     "participantIds": [
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "d1626c4a-55af-4d7b-a12d-2d6c1e4ff016",
