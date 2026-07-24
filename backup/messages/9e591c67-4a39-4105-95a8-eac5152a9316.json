@@ -40,9 +40,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T21:38:43.215Z",
     "deliveredTo": [
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
-    "readBy": []
+    "readBy": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ]
   },
   {
     "id": "4c631773-d54d-4863-8301-6d947856c6e7",
@@ -61,7 +64,31 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T21:38:50.434Z",
     "deliveredTo": [
-      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+      "ca36750b-5637-4cf6-a152-9b55898ebb10",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ]
+  },
+  {
+    "id": "8f26ae02-4279-4bed-97ee-82f37c78ccc1",
+    "chatId": "9e591c67-4a39-4105-95a8-eac5152a9316",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "i dey boss",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "4c631773-d54d-4863-8301-6d947856c6e7",
+    "replyToPreview": "how are u doing?",
+    "createdAt": "2026-07-24T09:52:50.061Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
     "readBy": []
   }
