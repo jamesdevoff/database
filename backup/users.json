@@ -12,14 +12,14 @@
     "isVerified": true,
     "isOnline": false,
     "isBanned": false,
-    "lastSeen": "2026-07-24T06:59:27.333Z",
+    "lastSeen": "2026-07-24T08:48:43.062Z",
     "createdAt": "2026-07-18T16:58:08.165Z",
     "blockedUserIds": [
       ""
     ],
     "warnings": [],
     "badgeColor": "#e74c3c",
-    "badgeStyle": "solid",
+    "badgeStyle": "outline",
     "badgeAnimated": true
   },
   {
@@ -457,6 +457,30 @@
     "badgeAnimated": false,
     "lastSeen": "2026-07-23T20:58:36.219Z",
     "createdAt": "2026-07-23T20:44:09.568Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
+  },
+  {
+    "id": "ef481918-b0bd-44fd-866a-594066072763",
+    "username": "HEXSPECTRESCURSE",
+    "displayName": "HEX SPECTRE",
+    "passwordHash": "$2a$10$QVH6wybDRXHLSprXuyHwxu5tG55dtzkDrafEI9S5I6RaPhwt8Hk.2",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": true,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-24T08:45:02.173Z",
+    "createdAt": "2026-07-24T08:41:18.449Z",
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
