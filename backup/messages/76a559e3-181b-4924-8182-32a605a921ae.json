@@ -472,8 +472,11 @@
     "replyToPreview": null,
     "createdAt": "2026-07-23T18:21:06.387Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
-    "readBy": []
+    "readBy": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ]
   }
 ]
