@@ -17,5 +17,26 @@
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
     ],
     "readBy": []
+  },
+  {
+    "id": "29bc8873-d4da-480e-b5c1-e7563bf79896",
+    "chatId": "help-center-4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "senderId": "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
+    "type": "text",
+    "text": "hello",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-24T05:32:29.577Z",
+    "deliveredTo": [
+      "4d855a8b-b74f-4af9-a42e-61dd1c67a74c"
+    ],
+    "readBy": []
   }
 ]
