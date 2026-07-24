@@ -188,7 +188,8 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "restrictedUserIds": [],
-    "createdAt": "2026-07-19T16:59:57.496Z"
+    "createdAt": "2026-07-19T16:59:57.496Z",
+    "hiddenForUserIds": []
   },
   {
     "id": "e2fcd48a-9456-42d2-9acd-6bf36c5e6dd6",
