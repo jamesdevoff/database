@@ -535,5 +535,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "f42799fe-8d3f-485e-b022-235e42e10977",
+    "username": "cheikh",
+    "displayName": "domoufah",
+    "passwordHash": "$2a$10$eLndI7H936SDk.uAiedq2utDSVWoOyVzPKJRZR/78A72TLtmEeVFq",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-24T13:01:42.342Z",
+    "createdAt": "2026-07-24T13:01:14.003Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
