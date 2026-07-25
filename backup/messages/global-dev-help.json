@@ -5839,12 +5839,14 @@
       "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "a0280d60-ffb0-4712-b006-71a49ef1deea",
-      "ef481918-b0bd-44fd-866a-594066072763"
+      "ef481918-b0bd-44fd-866a-594066072763",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
     "readBy": [
       "4d855a8b-b74f-4af9-a42e-61dd1c67a74c",
       "a0280d60-ffb0-4712-b006-71a49ef1deea",
-      "ef481918-b0bd-44fd-866a-594066072763"
+      "ef481918-b0bd-44fd-866a-594066072763",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ]
   },
   {
@@ -5864,9 +5866,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-25T06:48:46.657Z",
     "deliveredTo": [
-      "ef481918-b0bd-44fd-866a-594066072763"
+      "ef481918-b0bd-44fd-866a-594066072763",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
-    "readBy": []
+    "readBy": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ]
   },
   {
     "id": "ea0f00be-9627-410c-8aed-39d8c10b3de7",
@@ -5885,8 +5890,11 @@
     "replyToPreview": null,
     "createdAt": "2026-07-25T06:49:42.287Z",
     "deliveredTo": [
-      "ef481918-b0bd-44fd-866a-594066072763"
+      "ef481918-b0bd-44fd-866a-594066072763",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
-    "readBy": []
+    "readBy": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ]
   }
 ]
