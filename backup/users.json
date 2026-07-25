@@ -607,5 +607,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "3c10cd1a-0f04-46df-b5b8-401e42eecadd",
+    "username": "salmas",
+    "displayName": "salmas",
+    "passwordHash": "$2a$10$/Sc6fqaosZDBfSnBonbuGu8gOlqGfCaBf7vianG2DlbeHbWutoPnO",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-25T19:03:40.363Z",
+    "createdAt": "2026-07-25T19:01:04.466Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
