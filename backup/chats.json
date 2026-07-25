@@ -31,7 +31,8 @@
       "552c108b-3b25-4b26-9b49-921f13a2c1bf",
       "f42799fe-8d3f-485e-b022-235e42e10977",
       "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5",
-      "a0280d60-ffb0-4712-b006-71a49ef1deea"
+      "a0280d60-ffb0-4712-b006-71a49ef1deea",
+      "3c10cd1a-0f04-46df-b5b8-401e42eecadd"
     ],
     "ownerId": null,
     "adminIds": [],
@@ -119,7 +120,8 @@
       "552c108b-3b25-4b26-9b49-921f13a2c1bf",
       "f42799fe-8d3f-485e-b022-235e42e10977",
       "558c0f86-cf38-4f9a-8ea5-37ad7e30e8b5",
-      "a0280d60-ffb0-4712-b006-71a49ef1deea"
+      "a0280d60-ffb0-4712-b006-71a49ef1deea",
+      "3c10cd1a-0f04-46df-b5b8-401e42eecadd"
     ],
     "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
     "adminIds": [
@@ -669,5 +671,21 @@
     "adminIds": [],
     "restrictedUserIds": [],
     "createdAt": "2026-07-25T06:49:46.094Z"
+  },
+  {
+    "id": "help-center-3c10cd1a-0f04-46df-b5b8-401e42eecadd",
+    "type": "help_center",
+    "name": "Help Center",
+    "description": "Message the ZipDevs team directly.",
+    "participantIds": [
+      "3c10cd1a-0f04-46df-b5b8-401e42eecadd",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "adminIds": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-25T19:01:50.752Z"
   }
 ]
