@@ -64,7 +64,31 @@
     "replyToPreview": null,
     "createdAt": "2026-07-25T10:11:50.938Z",
     "deliveredTo": [
-      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+      "e275d378-d4ab-465d-a850-3a74ea917b0e",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "3f01fc12-b0e5-456c-8a58-36beb9d3db1b",
+    "chatId": "5176cfd6-c415-4891-b541-2f70bef122dc",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "fine",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-25T12:36:45.019Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
   }
