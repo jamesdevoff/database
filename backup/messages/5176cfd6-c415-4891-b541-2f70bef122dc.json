@@ -40,7 +40,31 @@
     "replyToPreview": null,
     "createdAt": "2026-07-24T13:49:12.600Z",
     "deliveredTo": [
-      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ],
+    "readBy": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+    ]
+  },
+  {
+    "id": "ef0f463a-1971-42d9-a786-6d54731494ce",
+    "chatId": "5176cfd6-c415-4891-b541-2f70bef122dc",
+    "senderId": "e275d378-d4ab-465d-a850-3a74ea917b0e",
+    "type": "text",
+    "text": "I dey bro",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-25T10:11:50.938Z",
+    "deliveredTo": [
+      "e275d378-d4ab-465d-a850-3a74ea917b0e"
     ],
     "readBy": []
   }
