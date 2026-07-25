@@ -656,5 +656,18 @@
     "restrictedUserIds": [],
     "createdAt": "2026-07-24T14:56:27.457Z",
     "hiddenForUserIds": []
+  },
+  {
+    "id": "3847f5d8-3172-4c7c-93a3-679f92633078",
+    "type": "direct",
+    "name": null,
+    "participantIds": [
+      "ef481918-b0bd-44fd-866a-594066072763",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "ownerId": null,
+    "adminIds": [],
+    "restrictedUserIds": [],
+    "createdAt": "2026-07-25T06:49:46.094Z"
   }
 ]
