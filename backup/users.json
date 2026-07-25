@@ -631,5 +631,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "57c1a141-d15d-4eb8-a760-010483317707",
+    "username": "depression _is_peak",
+    "displayName": "depression",
+    "passwordHash": "$2a$10$/Py1uH93nwPhnOJoj35Hi.1m2bGymH0/6QIP15kx38fckqp/JKuYm",
+    "avatarUrl": "/uploads/avatars/9edff030-5ca9-480c-a8f4-7956339bd565.png",
+    "wallpaperUrl": null,
+    "bio": "watashi no depression society",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-25T21:15:15.881Z",
+    "createdAt": "2026-07-25T21:12:25.507Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
