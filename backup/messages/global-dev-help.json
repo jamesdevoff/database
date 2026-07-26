@@ -6587,10 +6587,12 @@
     "createdAt": "2026-07-26T11:08:13.978Z",
     "deliveredTo": [
       "6c4f9dac-81e5-4ed7-a6d7-2ea424d439f9",
-      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85"
+      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85"
+      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -6611,10 +6613,54 @@
     "createdAt": "2026-07-26T11:08:37.504Z",
     "deliveredTo": [
       "6c4f9dac-81e5-4ed7-a6d7-2ea424d439f9",
-      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85"
+      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85"
+      "ab8f4f62-86c2-4943-8dc5-b9a33f6d6d85",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "76490392-29a9-48c9-a3ef-437952af7acd",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "this is beta",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "5a7fefd5-da4a-49b7-a4d5-5e725a834b6d",
+    "replyToPreview": "mf online type",
+    "createdAt": "2026-07-26T13:11:27.241Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "0e811e52-f14f-4128-a2ed-9ccdb66712ea",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "still unreliesed",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-26T13:11:32.536Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
