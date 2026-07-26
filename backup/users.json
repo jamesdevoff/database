@@ -679,5 +679,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "6c4f9dac-81e5-4ed7-a6d7-2ea424d439f9",
+    "username": "Demian_modz",
+    "displayName": "Demian Modz",
+    "passwordHash": "$2a$10$MgCfA3NNHdwzbHLO6jlnt.Zq0dSzz0Ucm6F1Ce5RFFFB2DsjemAp.",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": true,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-26T11:07:32.341Z",
+    "createdAt": "2026-07-26T11:06:37.729Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
