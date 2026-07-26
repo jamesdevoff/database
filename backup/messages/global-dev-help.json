@@ -6240,11 +6240,13 @@
     "deliveredTo": [
       "3c10cd1a-0f04-46df-b5b8-401e42eecadd",
       "57c1a141-d15d-4eb8-a760-010483317707",
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
       "57c1a141-d15d-4eb8-a760-010483317707",
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -6265,10 +6267,12 @@
     "createdAt": "2026-07-25T21:12:52.915Z",
     "deliveredTo": [
       "57c1a141-d15d-4eb8-a760-010483317707",
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -6289,10 +6293,12 @@
     "createdAt": "2026-07-25T21:13:00.867Z",
     "deliveredTo": [
       "57c1a141-d15d-4eb8-a760-010483317707",
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
   },
   {
@@ -6312,7 +6318,56 @@
     "replyToPreview": null,
     "createdAt": "2026-07-26T01:16:54.360Z",
     "deliveredTo": [
-      "93581f15-303d-4393-9357-967712423715"
+      "93581f15-303d-4393-9357-967712423715",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "f9a02b54-0d8a-4144-9dcc-0bb5104f7a5f",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "hello",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-26T06:12:50.664Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
+  },
+  {
+    "id": "057b8209-7660-4ea8-9918-26e2707eb315",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "code_snippet",
+    "text": null,
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": {
+      "filename": "snippet.js",
+      "language": "javascript",
+      "content": "hello world "
+    },
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-26T06:13:06.086Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": []
   }
