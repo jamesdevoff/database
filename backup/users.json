@@ -655,5 +655,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "93581f15-303d-4393-9357-967712423715",
+    "username": "Mr gojo",
+    "displayName": "Mr gojo",
+    "passwordHash": "$2a$10$t8RcizLhrVPY2LThRZ3nFuy1LftCjOUV9n4LwzXvO5T5vumofJIf.",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-26T01:00:32.271Z",
+    "createdAt": "2026-07-26T00:59:12.955Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
