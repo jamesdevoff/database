@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a2aea500-14f4-4e11-87e2-b16a74e93642",
+    "chatId": "52e4e146-adfa-453f-a33f-94a48da66f35",
+    "senderId": "93581f15-303d-4393-9357-967712423715",
+    "type": "text",
+    "text": "salut",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-26T01:18:18.551Z",
+    "deliveredTo": [
+      "93581f15-303d-4393-9357-967712423715"
+    ],
+    "readBy": []
+  }
+]
