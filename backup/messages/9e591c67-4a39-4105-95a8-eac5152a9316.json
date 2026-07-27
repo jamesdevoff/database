@@ -88,7 +88,31 @@
     "replyToPreview": "how are u doing?",
     "createdAt": "2026-07-24T09:52:50.061Z",
     "deliveredTo": [
-      "e275d378-d4ab-465d-a850-3a74ea917b0e"
+      "e275d378-d4ab-465d-a850-3a74ea917b0e",
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ],
+    "readBy": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
+    ]
+  },
+  {
+    "id": "2a248ec2-9913-4f69-85d0-993f477e5198",
+    "chatId": "9e591c67-4a39-4105-95a8-eac5152a9316",
+    "senderId": "ca36750b-5637-4cf6-a152-9b55898ebb10",
+    "type": "text",
+    "text": "ok",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": null,
+    "replyToPreview": null,
+    "createdAt": "2026-07-27T07:16:53.828Z",
+    "deliveredTo": [
+      "ca36750b-5637-4cf6-a152-9b55898ebb10"
     ],
     "readBy": []
   }
