@@ -727,5 +727,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "d5609851-e3b2-4345-865d-51d60888dbfc",
+    "username": "Traxxion",
+    "displayName": "Traxxion Tech",
+    "passwordHash": "$2a$10$ZxQYqJDRTjntjusOQiXOSuavKpO8zrlQMnK4EDb.GtpblnHeGSPdG",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": false,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-27T10:48:54.839Z",
+    "createdAt": "2026-07-27T10:47:29.351Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
