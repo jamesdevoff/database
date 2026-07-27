@@ -6823,10 +6823,33 @@
     "createdAt": "2026-07-26T19:05:41.669Z",
     "deliveredTo": [
       "ef481918-b0bd-44fd-866a-594066072763",
-      "e960716c-92e0-42cb-9fe9-8117acc6fd19"
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
     "readBy": [
-      "e960716c-92e0-42cb-9fe9-8117acc6fd19"
+      "e960716c-92e0-42cb-9fe9-8117acc6fd19",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ]
+  },
+  {
+    "id": "8c39cf5e-9eb1-4782-82e4-b359b5c94762",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "i added but notification comes ones app is running",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "baa196a9-214c-48ad-809a-01f1823e2d9b",
+    "replyToPreview": "also the app is kinda mute,you can add notifications, ringtones",
+    "createdAt": "2026-07-27T06:47:17.936Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": []
   }
 ]
