@@ -751,5 +751,29 @@
     "blockedUserIds": [],
     "warnings": [],
     "favoriteStickerIds": []
+  },
+  {
+    "id": "2fdfd8a4-446f-462c-86d2-593f7ea9c5bc",
+    "username": "moon",
+    "displayName": "monlavi",
+    "passwordHash": "$2a$10$t56tLkDUItab2OVtFv4bYuWh41NxviLAcYZwQoMrvMpzFgaaYhB9y",
+    "avatarUrl": null,
+    "wallpaperUrl": null,
+    "bio": "",
+    "isOwner": false,
+    "isAdmin": false,
+    "isVerified": false,
+    "isOnline": true,
+    "isBanned": false,
+    "isDeleted": false,
+    "deletedAt": null,
+    "badgeColor": "#3498DB",
+    "badgeStyle": "solid",
+    "badgeAnimated": false,
+    "lastSeen": "2026-07-28T12:16:28.817Z",
+    "createdAt": "2026-07-28T12:14:01.566Z",
+    "blockedUserIds": [],
+    "warnings": [],
+    "favoriteStickerIds": []
   }
 ]
