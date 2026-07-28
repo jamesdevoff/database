@@ -7118,9 +7118,12 @@
     "replyToPreview": null,
     "createdAt": "2026-07-28T12:17:24.485Z",
     "deliveredTo": [
-      "2fdfd8a4-446f-462c-86d2-593f7ea9c5bc"
+      "2fdfd8a4-446f-462c-86d2-593f7ea9c5bc",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
   },
   {
     "id": "d1e36d62-66b1-49df-97da-8f2588d28e7d",
@@ -7139,8 +7142,33 @@
     "replyToPreview": "nice 👍",
     "createdAt": "2026-07-28T12:17:44.890Z",
     "deliveredTo": [
-      "2fdfd8a4-446f-462c-86d2-593f7ea9c5bc"
+      "2fdfd8a4-446f-462c-86d2-593f7ea9c5bc",
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
     ],
-    "readBy": []
+    "readBy": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ]
+  },
+  {
+    "id": "64366a2b-f6b6-4486-b08c-c541748d6f16",
+    "chatId": "global-dev-help",
+    "senderId": "91cc0acc-3ecf-4a10-9c36-242fcd429bff",
+    "type": "text",
+    "text": "still under development",
+    "mediaUrl": null,
+    "mediaType": null,
+    "caption": null,
+    "buttons": null,
+    "carouselItems": null,
+    "location": null,
+    "code": null,
+    "replyToId": "d1e36d62-66b1-49df-97da-8f2588d28e7d",
+    "replyToPreview": "the app looks great",
+    "createdAt": "2026-07-28T13:36:44.250Z",
+    "deliveredTo": [
+      "91cc0acc-3ecf-4a10-9c36-242fcd429bff"
+    ],
+    "readBy": [],
+    "editedAt": "2026-07-28T13:36:59.507Z"
   }
 ]
