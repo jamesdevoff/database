@@ -180,5 +180,25 @@
     "approvedBy": "Altos",
     "premium": false,
     "premiumKey": null
+  },
+  "27623818089": {
+    "telegramId": "8985247654",
+    "telegramName": "Aurora",
+    "waNumber": "27623818089",
+    "securedKey": "VKDB-NUET-R2XY-AJU3",
+    "approvedAt": "2026-08-10T15:31:02.318Z",
+    "approvedBy": "Altos",
+    "premium": false,
+    "premiumKey": null
+  },
+  "254745542632": {
+    "telegramId": "8927054317",
+    "telegramName": "༒läst séën༒",
+    "waNumber": "254745542632",
+    "securedKey": "VKDB-36KJ-N74L-URGF",
+    "approvedAt": "2026-08-10T15:31:04.128Z",
+    "approvedBy": "Altos",
+    "premium": false,
+    "premiumKey": null
   }
 }
