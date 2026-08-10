@@ -200,5 +200,15 @@
     "approvedBy": "Altos",
     "premium": false,
     "premiumKey": null
+  },
+  "25445542632": {
+    "telegramId": "8927054317",
+    "telegramName": "༒läst séën༒",
+    "waNumber": "25445542632",
+    "securedKey": "VKDB-Z4HM-S5ZU-YB42",
+    "approvedAt": "2026-08-10T16:36:38.457Z",
+    "approvedBy": "Altos",
+    "premium": false,
+    "premiumKey": null
   }
 }
