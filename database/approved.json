@@ -230,5 +230,15 @@
     "approvedBy": "Altos",
     "premium": false,
     "premiumKey": null
+  },
+  "237689000399": {
+    "telegramId": "7819082666",
+    "telegramName": "ESAÏE",
+    "waNumber": "237689000399",
+    "securedKey": "VKDB-ZBJR-AS4N-4E4W",
+    "approvedAt": "2026-08-11T01:36:59.721Z",
+    "approvedBy": "Altos",
+    "premium": false,
+    "premiumKey": null
   }
 }
