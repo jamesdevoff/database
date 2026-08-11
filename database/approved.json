@@ -220,5 +220,15 @@
     "approvedBy": "Altos",
     "premium": false,
     "premiumKey": null
+  },
+  "2347084780979": {
+    "telegramId": "7376949374",
+    "telegramName": "EZ£. ⟬𖣲⟭",
+    "waNumber": "2347084780979",
+    "securedKey": "VKDB-U9Y4-ZG8Z-HWC3",
+    "approvedAt": "2026-08-11T01:36:56.727Z",
+    "approvedBy": "Altos",
+    "premium": false,
+    "premiumKey": null
   }
 }
